@@ -53,7 +53,7 @@ Türkçe (Turkish) = Türkçe (Turkish)
 # ui_data_uk.txt
 Украинский (Ukrainian) = Украинский (Ukrainian)
 
-# ui_data_vn.txt
+# ui_data_vi.txt
 Tiếng Việt (Vietnamese) = Tiếng Việt (Vietnamese)
 
 # ui_data_bn.txt
