@@ -1,0 +1,3211 @@
+# Menu
+User = Người dùng
+Join... = Tham gia...
+Login... = Đăng nhập...
+Log in = Đăng nhập
+Logout = Đăng xuất
+Change password... = Đổi mật khẩu...
+User Preference = Thiết lập người dùng
+System Settings... = Thiết lập Hệ thống...
+System Settings = Thiết lập Hệ thống
+Crash = Bị hỏng...
+Invite friends... = Mời bạn bè...
+Language = Ngôn ngữ
+Language Setting = Cài đặt ngôn ngữ
+
+Document Recovery = Phục hồi tài liệu
+Your Preferences Information = Thông tin tài khoản của bạn
+File = Tập tin
+New = Mới
+Project... = Dự án...
+Schematic = Mạch điện
+Schematic-Simulation = Mô phỏng mạch điện
+Spice Symbol = Ký hiệu linh kiện
+Spice Subckt = Linh kiện con
+spicePre = Tiền tố linh kiện
+PCB = PCB
+Schematic Module = Mạch điện Mô đun 
+PCB Module = Mô đun bo mạch
+Save... = Lưu ...
+Save As... = Lưu thành...
+Save As Module... = Lưu dưới dạng Module...
+Print = In ra
+Export Document = Xuất tài liệu
+LTspice... = LTspice...
+Eagle... = Phần mềm Eagle...
+Altium... = Phần mềm Altium...
+Cadence... = Phần mềm Cadence...
+Pads... = Phiến đế linh kiện...
+DXF = DXF
+Import = Nhập
+
+Edit = Chỉnh sửa
+Undo = Hoàn tác
+Redo = Làm lại
+Cut = Cắt tỉa
+Copy = Sao chép
+Paste = Dán
+Select = Lựa chọn
+Delete = Xóa bỏ
+Clear All = Bỏ chọn tất
+Move = Di chuyển
+Drag = Kéo
+Bring to Front = Di chuyển lên trước
+Send to Back = Di chuyển xuống dưới cùng
+Align = Căn chỉnh
+Align Left = Căn trái
+Align Right = Căn phải
+Align Top = Căn theo đỉnh
+Align Bottom = Căn xuống theo đáy
+Align Horizontal Centers = Căn giữa theo chiều ngang
+Align Vertical Centers = Căn giữa theo chiều dọc
+Distribute Horizontally = Canh đều theo chiều ngang
+Distribute Vertically = Canh đều theo chiều dọc
+Distribute Left Edges Equidistantly = Canh đều theo lề trái
+Distribute Top Edges Equidistantly = Canh đều theo lề phải
+Align Grid = Căn theo lưới thiết kế
+Rotate = Quay
+Rotate Left = Quay trái
+Rotate Right = Quay phải
+Flip Horizontal = Lật ngang
+Flip Vertical = Lật dọc
+Rotate and Flip = Xoay và Lật
+Group/Ungroup Symbol... = Gộp/Bỏ gộp linh kiện
+
+[menu_project]
+View = Xem
+[/menu_project]
+Find = Tìm
+Zoom In = Phóng to
+Zoom Out = Thu nhỏ
+Fit in Window = Vừa trong cửa sổ
+Refresh = Làm tươi
+Snap = Tự động dính vào
+Cross Cursor = Con trỏ ngang
+Toolbars = Thanh công cụ
+Drawing Tools = Công cụ vẽ
+Wiring Tools = Công cụ nối mạch
+Power Objects = Linh kiện nguồn
+PCB Tools = Công cụ mạch in
+Footprint Tools = Công cụ thiết kế mẫu linh kiện
+Layers Tool = Công cụ điều chỉnh lớp mạch
+Layer Manager = Trình quản lý lớp mạch
+Enable and Show All Layers = Kích hoạt, hiển thị tất cả các lớp mạch
+Net Visible = Mạch đang hiển thị
+Auto = Tự động
+Digital Objects = Linh kiện số
+Tools = Công cụ
+Arc Center = Cung tròn hướng
+Arc Type = Kiểu cung tròn
+Center Point Arc = Cung tròn định tâm
+Two-point Arc = Cung tròn 2 điểm
+
+Place = Chèn
+Drawing Tools = Công cụ vẽ
+Arc = Vòng cung
+Elliptical Arc = Cung elip
+Ellipse = Elip
+Circle = Đường tròn
+Pie = Hình bánh
+Line = Đường thẳng
+Polyline = Đường nối nhiều đoạn
+Rectangle = Hình chữ nhật
+Rectangular = Hình chữ nhật
+The rectangle does not support non-90 degree rotation. Please use Solid Region instead. = Hình chữ nhật không hỗ trợ quay góc khác 90 độ. Hãy thay bằng vùng đồng nhất.
+
+Rect = Chữ nhật
+Round Rectangle = Hình chữ nhật bo góc
+Polygon = Đa giác
+Bezier = Đường cong Bezier
+Path = Đường nối
+Graphic = Đồ họa
+Bus = Mạch chính
+Bus Entry = Đầu vào Mạch chính
+Junction = Mối nối
+Net Port = Điểm nối
+Voltage Probe = Điểm đo điện áp
+Power Port = Điểm cấp nguồn
+Wire = Dây dẫn
+Annotation = Chú thích
+Track = Đường mạch
+Image = Hình ảnh
+Arrow Head = Đầu mũi tên
+Arrowhead = Đầu mũi tên
+Arrow = Mũi tên
+No Connect Flag = Không nối mạch
+Place = Khu vực
+Pin = Ghim
+Lock Selected Objects = Khóa đối tượng đã chọn
+
+Miscellaneous = Khác
+Find Component = Tìm linh kiện
+Component = Linh kiện
+Footprint... = Mẫu linh kiện...
+This component is deleted! = Linh kiện này đã bị xóa
+Convert = Chuyển đổi
+Convert Schematic to PCB = Chuyển Sơ đồ sang Mạch điện
+The component ID will be reset according to the component prefix, this operation will clear Undo histories. Please notice: = Mã linh kiện đã được khôi phục theo tiền tố linh kiện, hành động này sẽ xóa lịch sử hoàn tác. Hãy lưu ý:
+Please make sure the component prefixes of the schematic and PCB are corresponding = Cần chắc chắn là tiền tố của sơ đồ mạch và mạch in là khớp nhau
+Please reset the component ID of corresponding schematic or corresponding PCB too = Hãy thiết lập lại Mã linh kiện của Sơ đồ mạch cũng như mạch in tương ứng
+Do you want to continue? = Bạn muốn tiếp tục không?
+Reset Component ID = Thiết lập lại mã linh kiện
+Component ID reset successfully! = Mã linh kiện đã được thiết lập lại thành công
+Convert to PCB = Chuyển đổi sang mạch in PCB
+Update PCB = Cập nhật mạch in PCB
+Shortcut Keys Setting = Cài đặt phím tắt
+Edit Symbol... = Chỉnh sửa ký hiệu linh kiện...
+Highlight Net... = Làm nổi đường mạch...
+Simulate = Mô phỏng
+Simulation = Mô phỏng
+Standard Mode = Chế độ Tiêu chuẩn
+Simulation Mode = Chế độ Mô phỏng
+Change to Standard Mode = Đổi sang chế độ Tiêu chuẩn
+Change to Simulation Mode = Đổi sang chế độ Mô phỏng
+Welcome to Use LCEDA = Chào mừng bạn Sử dụng LCEDA
+Welcome to Use EasyEDA = Chào mừng bạn sử dụng EasyEDA
+Enable Education Edition Features for Free >>> = Kích hoạt miễn phí các tính năng của phiên bản Giáo dục
+Quick Start = Bắt đầu ngay
+More Help = Trợ giúp thêm
+Explore = Khám phá
+Message = Thông điệp
+[start]
+Example = Ví dụ
+Forum = Diễn đàn
+Tutorials = Hướng dẫn
+Videos = Tài liệu dạng Video
+[/start]
+Custom Data = Dữ liệu tùy biến
+LCEDA = LCEDA
+
+Copy Result Image = Chép ảnh sản phẩm
+Export Result Image = Xuất ảnh sản phẩm
+Simulation Result = Kết quả Mô phỏng
+Simulation Results... = Kết quả Mô phỏng...
+Simulate this Sheet = Mô phỏng bản vẽ này
+Simulate this Project = Mô phỏng Dự án này
+Non-simulation mode, please switch to the simulation mode first and then run = Đang ở chế độ không mô phỏng, hãy chuyển sang chế độ Mô phỏng sau đó thực hiện
+Run the Document = Thực hiện Mô phỏng bản vẽ
+Run the Project... = Thực hiện Mô phỏng dự án...
+Netlist for Document = Danh sách các đường mạch của bản vẽ
+Netlist for Project = Danh sách các đường mạch của Dự án
+LTspice for This Sheet... = LTspice của bản vẽ
+Spice for this Project... = Linh kiện mô phỏng của Dự án
+Protel/Altium for PCB... = Phiên bản Protel / Altium cho mạch in PCB...
+PADS for PCB... = Phiến đế linh kiện cho mạch in PCB
+FreePCB for PCB... = Phiên bản FreePCB cho mạch in PCB...
+Eagle for PCB... = Phiên bản Eagle cho mạch in PCB...
+Kicad for PCB... = Phiên bản Kicad cho mạch in PCB...
+OrCAD for PCB... = Phiên bản OrCAD cho mạch in PCB...
+BOM report... = Báo cáo danh sách linh kiện...
+BOM for Document... = Danh sách linh kiện của Bản vẽ...
+BOM for Project... = Danh sách linh kiện của dự án...
+Pin Manager... = Trình quản lý Chân linh kiện
+Spice Model... = Mô hình linh kiện mô phỏng
+Layer Manager... = Trình quản lý lớp mạch
+Net Color... = Màu đường mạch
+Design Rule... = Nguyên tắc thiết kế
+Copper Area = Vùng phủ đồng
+Rebuild Selected = Định hình lại vùng đang chọn
+Rebuild All = Định hình lại tất cả
+Copper Area Manager... = Trình quản lý Vùng phủ đồng
+Export Pick and Place File = Xuất tập tin Tọa độ
+Measure Distance = Đo khoảng cách
+Set Canvas Origin by Mouse Location = Đặt gốc bản vẽ vào điểm con trỏ chuột
+Generates Pick and Place File = Tạo tập tin tọa độ linh kiện
+Unroute All = Xoá tất cả đường mạch
+Auto Route = Tự động đi mạch
+Export Autorouter File(DSN) = Xuất tập tin Đi mạch tự động (DSN)
+Import Autorouter Session File(SES) = Nhập phiên Đi mạch tự động
+Autorouter File(DSN) = Tập tin Đi mạch tự động (DSN)
+Autorouter Session File(SES) = Phiên Đi mạch tự động (SES)
+Terminate Routing Automatically = Dừng đi mạch tự động
+Delete Segments = Xóa bỏ đoạn mạch
+Unroute Connections = Bỏ đoạn nối mạch đã vẽ
+Unroute Connection = Bỏ đoạn nối mạch đã vẽ
+Unroute Nets = Bỏ đường mạch
+Select = Chọn
+Segments = Đoạn mạch
+Connection = Đoạn nối mạch
+Net = Đường mạch
+Apply Design Rule While Routing and Auto Placing Via = Thực hiện nguyên tắc thiết kế trong khi đi mạch và tự động định vị đường mạch thông qua
+
+Add SubPart = Thêm SubPart
+Annotate... = Chú thích...
+Config = Cấu hình
+
+Help = Trợ giúp
+About = Giới thiệu về phần mềm
+Shortcut Keys = Phím tắt
+FAQ = Câu hỏi thường gặp
+Tutorials = Hướng dẫn
+Basic Tutorials = Hướng dẫn cơ bản
+Video Tutorials = Video hướng dẫn
+Essential Check = Kiểm tra cơ bản
+Simulation Tutorials = Hướng dẫn Mô phỏng
+Updated Instructions = Hướng dẫn cập nhật
+Open File Format = Định dạng tập tin
+About Upgrade = Giới thiệu về Nâng cấp
+User Forum = Diễn đàn người dùng
+Feature Request = Yêu cầu tính năng
+Feature Requests = Yêu cầu tính năng
+Bug Report = Báo cáo lỗi
+Bug Reports = Báo cáo lỗi
+Tips & Skill = Mẹo & Kỹ năng
+Ask for Help = Yêu cầu trợ giúp
+Schematic Capture = Dựng bản vẽ từ hình ảnh
+Spice Simulation = Mô phỏng linh kiện
+Non-simulation mode = Chế độ không mô phỏng
+PCB Layout = Hình dạng PCB
+General Discussion = Thảo luận chung
+More Information = Thông tin thêm
+Privacy Policy = Chính sách bảo mật
+#Terms of Use & Privacy Policy
+Terms of Service = Điều khoản Dịch vụ
+Plans and Pricing = Gói dịch vụ và Giá cả
+Help Translate = Giúp Dịch thuật
+About Us = Về chúng tôi
+Contact Us = Liên hệ chúng tôi
+Change History = Lịch sử thay đổi
+Join Us = Tham gia với chúng tôi
+#PCB Fabrication Capabilities
+PCB Fabrication = Chế tạo PCB
+Order Capabilities = Khả năng Đặt hàng
+Order Price = Giá đặt hàng
+Order Essential Check = Đặt hàng dịch vụ Kiểm tra
+Order FAQ = Đặt hàng câu hỏi thường gặp
+Order Process = Quá trình đặt hàng
+Full Screen = Toàn màn hình
+
+Support = Ủng hộ
+[leftNavTabs]
+Support = Ủng hộ
+[/leftNavTabs]
+Historical Records... = Dữ liệu lịch sử...
+Extensions = Công cụ mở rộng
+Order PCB... = Đặt hàng PCB...
+Import Changes = Nhập Thay đổi
+Press {0}F11{1} to switch to full screen. = Nhấn {0}F11{1} để chuyển sang toàn màn hình.
+Delete Selected = Xóa đối tượng đã chọn
+Simulate... = Mô phỏng...
+Config = Cấu hình
+Terms of Service & Privacy Policy = Về chính sách bảo mật dịch vụ
+Help Topics = Chủ đề trợ giúp
+3D Model(obj) = Mô hình 3D (obj) 
+3D Model(step) = Mô hình 3D (step) 
+SVG Source... = Tập tin SVG nguồn...
+File Source = Tập tin nguồn
+Group These Items as a Symbol = Nóm các đối tượng này theo Ký hiệu linh kiện
+Group These Items as a Footprint = Nóm các đối tượng này theo Mẫu linh kiện
+Set Canvas Origin = Thiết lập nền vẽ gố
+Document Setting = Thiết lập tài liệu
+Sheet Attributes = Thuộc tính bản vẽ
+Set Board Outline = Thiết lập khung bản mạch
+Teardrop... = Teardrop...
+Panelize... = Dựng panel bản mạch PCB
+Check Dimension = Kiểm tra kích thước
+Smart Dimension = Định kích thước thông minh
+Footprint Wizard = Quy trình tạo Mẫu linh kiện
+Footprint Wizard... = Quy trình tạo Mẫu linh kiện...
+Select package type = Chọn loại linh kiện
+Smart Dimension Attributes = Định đặc tính kích thước thông minh
+Global Delete = Xóa toàn bộ
+Cross Probe = Đo tín hiệu ngang
+Cross Probe and Place = Đo tín hiệu ngang và định vị
+Paper Size = Cỡ giấy
+Register = Đăng ký
+User Center = Trung tâm Người dùng
+
+By Mouse Location = Theo vị trí trỏ chuột
+Set Coordinate = Thiết lập tọa độ
+By Coordinates... = Theo tọa độ
+By Center of Pads = Theo trọng tâm của phiến đế linh kiện
+By Center Grid of Symbols = Theo trọng tâm lưới linh kiện
+
+#Schematic Canvas Attributes
+Properties = Tính chất
+Attributes = Thuộc tính
+Apply = Áp dụng
+Save as default = Lưu làm mặc định
+Canvas Attributes = Thuộc tính nền vẽ
+Width = Chiều rộng
+Height = Chiều cao
+Background = Nền
+Visible Grid = Lưới hiển thị
+Grid Visible = Lưới nhìn thấy được
+Real-Time Track Length = Đo độ dài đường mạch trực tiếp
+Display Real-Time Track Length = Hiển thị đường mạch trực tiếp
+Grid Color = Màu lưới
+Grid Size = Kích thước lưới
+Grid Style = Kiểu lưới
+Grid.Line Width = Độ rộng đường lưới
+Grid.Line Spacing = Khoảng cách đường lưới
+Copper to Board Outline = Chuyển đổi vùng phủ đồng sang Mạch PCB
+Improve Fabrication = Cải thiện chế tạo bản mạch
+Spoke Width = Độ lớn đường nối
+Stroke Color = Màu đường kẻ
+Stroke Width = Chiều rộng dòng
+Stroke Style = Kiểu đường
+Fill Color = Tô màu
+Selected Objects = Đối tượng được chọn
+Frame Size = Kích thước tổng thể
+Alt Snap = Alt Snap
+Snap size when pressing the Alt key = Kích thước snap khi nhấn phím Alt
+Prefix Start = Bắt đầu của tiền tố
+
+#Text Attributes
+Text Attributes = Thuộc tính chữ
+Text = Chữ
+Color = Màu
+Font Family = Kiểu phông chữ
+Font Size = Cỡ chữ
+Font Weight = Độ đậm Phông chữ
+Font Style = Kiểu Phông chữ
+Text Type = Dạng chữ
+Text Anchor = Điểm neo Chữ
+Baseline = Đường cơ sở
+(Auto) = (Tự động)
+(auto) = (Tự động)
+start = bắt đầu
+middle = giữa
+end = cuối
+inherit = thừa kế
+comment = Nhận xét
+spice = linh kiện Mô phỏng
+normal = bình thường
+italic = chữ nghiêng
+Default = Mặc định
+Add = Thêm
+bold = đậm
+bolder = đậm hơn
+lighter = mảnh hơn
+Failed to parse the font file: {name} = Không thể tải tập tin phông chữ: {name}
+Please select a font file of ttf or woff format. = Vui lòng chọn tập tin phông có định dạng ttf hoặc woff.
+Add font success: {name} = Thêm phông {name} thành công:
+Failed to add font: {name} = Không thể thêm phông: {name}
+Add Font = Thêm Phông chữ
+Failed to parse cached font: {name} = Không tải được phông {name} lưu trữ trong bộ nhớ cache
+Load cached fonts fail! = Tải các phông đã lưu trong bộ nhớ cache không thành công!
+
+#Stroke
+Stroke Color = Màu đường kẻ
+Stroke Width = Chiều rộng dòng
+Stroke Style = Kiểu đường
+Fill Color = Tô màu
+X Radius = Bán kính góc X
+Y Radius = Bán kính góc y
+
+#spice
+Switch mode = Chuyển chế độ
+The current documents will be closed, and reopen after switching mode, do you want to continue? = Tài liệu hiện thời sẽ bị đóng, và mở ra sau khi chuyển chế độ, bạn có muốn tiếp tục không?
+PCB related documents are not allowed in emulation mode = Tài liệu liên quan đến bản mạch PCB không dùng được trong chế độ Mô phỏng
+Please change the editor to "Simulation" mode first at the top left corner. = Hãy đổi giao diện thiết kế sang "Chế độ Mô phỏng" ở góc trái trên cùng trước.
+Please change the editor to "Standard" mode first at the top left corner. = Hãy đổi giao diện thiết kế sang "Chế độ Tiêu chuẩn" ở góc trái trên cùng trước.
+Common = Thông dụng
+spice.open = mở linh kiện mô phỏng
+spice.close = đóng linh kiện mô phỏng
+Sources = Nguồn
+Instrument = Công cụ
+Transistors = Bóng bán dẫn
+Digital Circuits = Mạch số
+Operational Amplifier = Mạch khuếch đại
+multimeter = dụng cụ đo
+multimeter Settings = thiết lập dụng cụ đo
+FunctionGenerator Settings = Thiết lập Công cụ tạo chức năng
+Voltage Source Settings = Thiết lập Nguồn điện áp
+Current Source Settings = Thiết lập Dòng hiện thời
+Powersw Settings = Thiết lập nguồn Powersw 
+Resistor Settings = Thiết lập Điện trở
+Capacitor Settings = Thiết lập Tụ điện
+Diode Settings = Thiết lập Đi ốt
+voltPowersw Settings = Thiết lập điện áp nguồn voltPowersw
+Inductor Settings = Thiết lập Cuộn cảm
+VCVS Settings = Thiết lập VCVS 
+CCCS Settings =Thiết lập CCCS 
+VCCS Settings = Thiết lập VCCS 
+CCVS Settings = Thiết lập CCVS 
+JFET Settings = Thiết lập JFET 
+FET Settings = Thiết lập FET 
+Transmission Line Settings = Thiết lập đường truyền tin hiệu
+Oscilloscope Settings = Thiêt lập máy Ô si lô
+XFMR Settings = Thiết lập XFMR 
+LOGIC Settings = Thiết lập Lô gic (LOGIC)
+LOGICSTATE Settings = Thiết lập Cổng Lô gic (LOGICSTATE)
+DIGITALCLOCK Settings = Thiết lập Đồng hồ số (DIGITALCLOCK)
+Potentiometer Settings = Thiết lập biến trở (Potentiometer)
+MUTUAL_INDUCTORS Settings = Thiết lập MUTUAL_INDUCTORS 
+NE555 Settings = Thiết lập NE555 
+THREE_PHASE Settings = Thiết lập THREE_PHASE 
+Logic_Probe Settings = Thiết lập Logic_Probe 
+78XX Settings = Thiết lập 78XX 
+79XX Settings = Thiết lập 79XX 
+OPAMP5PEE Settings = Thiết lập OPAMP5PEE 
+OPAMP5PEECN Settings = Thiết lập OPAMP5PEECN 
+OPAMP3PEE Settings = Thiết lập OPAMP3PEE 
+OPAMP3PEECN Settings = Thiết lập OPAMP3PEECN 
+DELAY_FUSE Settings = Thiết lập DELAY_FUSE
+Ratio = Tỷ lệ
+K[%]
+Model = Loại
+States = Trạng thái
+Voltage[V]
+Voltage gain[V/V]
+Current gain[A/A]
+Transconductance[Mho]
+Transresistance[Ω]
+Voltage Source Type = Kiểu nguồn điện áp
+Current Source Type = Kiểu dòng hiện thời
+multimeter type = loại máy đo
+power type = loại nguồn
+Voltmeter Resistance(R)(Ω) = Đo điện áp theo trỏ kháng (R)(Ω)
+Amperometer Resistance(R)(Ω) = Đo dòng theo trở kháng (R)(Ω)
+mu.V = mu.V
+mu.A = mu.A 
+Sine Wave = Sóng Sin
+Triangular Wave = Sóng vuông
+Rectangular Wave = Sóng chữ nhật
+AC = Xoay chiều (AC)
+DC = Một chiều (DC)
+SINE = SIN
+PULSE = XUNG
+EXP = MŨ
+SFFM =SFFM 
+PWL =PWL 
+B.spice =B.spice 
+DC Value[V] = Điện áp một chiều [V]
+DC Value[A] = Cường độ dòng một chiều [A]
+DC offset[V] = Điện áp biến thiên một chiều[V]
+DC offset[A] = Dòng điện biến thiên một chiều[A]
+Amplitude[V] =  Biên độ điện áp [V]
+Amplitude[A] = Biên độ dòng điện [V]
+Freq[Hz] = Tần số [Hz] 
+Theta[1/s]
+Tdelay[s]
+Phi[deg]
+Tperiod[s]
+Ton[s]
+Tfall[s]
+Trise[s]
+Von[V]
+Von[A]
+Vinitial[V]
+Vinitial[A]
+Vpulsed[V]
+Vpulsed[A]
+Rise Delay[s]
+Rise Tau[s]
+Fall Delay[s]
+Fall Tau[s]
+Carrier Freq[Hz]
+Modulation Index = Chỉ số biên độ
+Signal Freq[Hz]
+Time[s]
+Value[V]
+Value[A]
+Waveforms = Dạng sóng
+Duty cycle[%]
+Amplitude[Vp]
+Offset[V]
+Rise/Fall Time[sec]
+Capacitance[F]
+sComponent =s Linh kiện 
+Inductance[H]
+Gbw = Gbw 
+Slewrate = Chu kỳ quét
+Avol =Avol 
+Rout(Ω) = Điện trở ngoài(Ω) 
+Rin(Ω) = Điện trở trong(Ω) 
+Ibias[A]
+Inhi[V]
+Inlo[V]
+Isc[A]
+Outhi[V]
+Outlo[V]
+Vabsmax[V]
+Vmin[V]
+Iq[A]
+Cin[F]
+high = cao
+low = thấp
+Oscilloscope = Ô si lô
+Logic Analyzer = Phân tích Lô gic
+Channel_A = Kênh_A
+Channel_B = Kênh_B
+Channel A = Kênh A
+Channel B = Kênh B
+Time = Thời gian
+Reverse = Đảo
+Simulation file exceed = Tập tin Mô phỏng vượt quá
+The simulation file is too large and has been stopped for performance reasons. = Tập tin mô phỏng quá lớn và đã bị dừng thực thi do năng lực mô phỏng của thiết bị
+Timebase = Định thời
+Scale: = Tỷ lệ:
+X pos.(Div): =X pos.(Div): 
+Y pos.(Div): =Y pos.(Div): 
+View meter... = Xem công cụ đo
+The circuit has components without simulation model: = Mạch điện có linh kiện không có chế độ mô phỏng
+Your simulation interval is too short to simulate, please wait 5 seconds later and try again; if still show this message, may be you simulated over 500 times the maximum simulation times per day. = Định thời gian mô phỏng quá ngắn, hãy đợi thêm 5 giây và thử lại; nếu thông điệp này vẫn hiện ra, có lẽ bạn đã mô phỏng quá 500 lần trên ngày.
+Resistor1_US = Điện trở kiểu Mỹ (1_US)
+Resistor1_EU/IEC =Điện trở kiểu Châu Âu (1_EU/IEC )
+Resistor1_3D =Điện trở kiểu 3D (1_3D) 
+Capacitor1_US =Capacitor1_US 
+Capacitor1_EU/IEC =Capacitor1_EU/IEC 
+Capacitor1_3D =Capacitor1_3D 
+Rheostat_US =Rheostat_US 
+Rheostat_EU/IEC =Rheostat_EU/IEC 
+Rheostat_3D =Rheostat_3D 
+Capacitor_Electrolytic_US =Capacitor_Electrolytic_US 
+Capacitor_Electrolytic_EU/IEC =Capacitor_Electrolytic_EU/IEC 
+Capacitor_Electrolytic_3D =Capacitor_Electrolytic_3D 
+Inductor_US =Inductor_US 
+Inductor_EU/IEC =Inductor_EU/IEC 
+Inductor_3D =Inductor_3D 
+Resistor2_US =Resistor2_US 
+Resistor2_EU/IEC =Resistor2_EU/IEC 
+Resistor2_3D =Resistor2_3D 
+Multimeter = Máy đo
+Multimeter_3D = Máy đo _3D 
+Oscilloscope = Máy hiện sóng
+Oscilloscope_3D = Máy hiện sóng_3D
+Signal_Generator = Bộ tạo tín hiệu
+Signal Generator_3D = Bộ tạo tín hiệu _3D
+Wattmeter = Máy đo Công suất
+Wattmeter_3D = Máy đo Công suất_3D
+NSSWS1080T_3D = NSSWS1080T_3D
+Voltage_Source_VDC = Nguồn điện áp_VDC
+Voltage_Source_VSin = Nguồn điện áp_VSin
+Voltage_Source_VPULSE = Nguồn điện áp_VPULSE
+Voltage_Source_VEXP = Nguồn điện áp_VEXP
+Voltage_Source_VSFFM = Nguồn điện áp_VSFFM
+Voltage_Source_VPWL = Nguồn điện áp_VPWL
+Voltage_Source_V_Behavioral_Source = Nguồn điện áp_V_Đặc tính nguồn
+Current_Source_IDC = Dòng hiện thời_IDC 
+Current_Source_ISin = Dòng hiện thời_ISin
+Current_Source_IPULSE = Dòng hiện thời_IPULSE
+Current_Source_IEXP = Dòng hiện thời_IEXP
+Current_Source_ISFFM = Dòng hiện thời_ISFFM
+Current_Source_IPWL = Dòng hiện thời_IPWL
+Current_Source_I_Behavioral_Source = Dòng hiện thời _I_Đặc tính dòng
+CCCS_1 = CCCS_1
+CCCS_2 = CCCS_2 
+CCVS_1 = CCVS_1 
+CCVS_2 = CCVS_2
+VCCS = VCCS 
+VCVS = VCVS 
+Three_Phase_Wye_Load = Tải Wye ba pha
+Three_Phase_Delta_Load = Tải Delta ba pha
+78XX = 78XX
+79XX = 79XX
+555 = Chíp hẹn giờ 555
+555_3D = Chíp 555_3D
+Transformer_US = Biến áp (kiểu US)
+Transformer_EU/IEC = Biến áp (kiểu EU/IEC)
+Transformer_Center_Tapped_US = Biến áp tự ngẫu (kiểu US)
+Transformer_Center_Tapped_EU/IEC = Biến áp tự ngẫu (kiểu EU/IEC)
+Mutual_Inductor_US = Biến áp cảm ứng (kiểu US)
+Mutual_Inductor_EU/IEC = Biến áp cảm ứng (kiểu EU/IEC)
+Mutual_Inductor2_US = Biến áp cảm ứng 2 (kiểu US)
+Mutual_Inductor2_EU/IEC = Biến áp cảm ứng 2 (EU/IEC)
+OR2EE_US =
+OR3EE_US =
+OR4EE_US =
+OR2EE_CN =
+OR3EE_CN =
+OR4EE_CN =
+NOR2EE_US =
+NOR3EE_US =
+NOR4EE_US =
+NOR2EE_CN =
+NOR3EE_CN =
+NOR4EE_CN =
+AND2EE_US =
+AND3EE_US =
+AND4EE_US =
+AND2EE_CN =
+AND3EE_CN =
+AND4EE_CN =
+NAND2EE_US =
+NAND3EE_US =
+NAND4EE_US =
+NAND2EE_CN =
+NAND3EE_CN =
+NAND4EE_CN =
+XOR2EE_US =
+XOR2EE_CN =
+XNOR2EE_US =
+XNOR2EE_CN =
+Digital_Clock_1Hz = Đồng hồ số 1Hz
+Logicstate_0 = Trạng thái lô gic_0
+Logicstate_1 = Trạng thái lô gic_1
+Logic_Probe = Dò lô gic
+Buffee =
+INVEE_US =
+INVEE_CN =
+Schmittbuffee =
+LM358N_US =
+LM358N_CN =
+OPAMP3PEE_US =
+OPAMP3PEE_CN =
+OPAMP5PEE_US =
+OPAMP5PEE_CN =
+Voltage_Controlled_Switch = Công tắc điều khiển điện áp
+Current_Controlled_Switch = Công tắc điều khiển dòng 
+FUSE = CẦU CHÌ
+Delay_Fuse = Cầu chì trễ
+Transmission_Line = Đường truyền
+Crystal = Thạch anh
+DFFEE =
+TFFEE =
+JKFFEE =
+SRFFEE =
+SRLATCHEE =
+SRNANDFFEE =
+SRNORFFEE =
+INVTSEE =
+INVODEE =
+Schmittbuffee =
+Cbuffer =
+SPDT_Open = SPDT_Mở
+SPDT_Close = SPDT_Đóng
+SPST_Close = SPST_Đóng
+SPST_Open = SPST_Mở
+Fast_Crystal = Thạch anh nhanh
+Lamp = Đèn
+BCD_Segment = Hiển thị BCD
+Seven_Segment = Hiển thị Bảy đoạn
+Traffic_Light = Đèn báo hiệu
+Lamp Settings = Thiết lập đèn
+Power[W] 
+Dropout Voltage[V]
+Current[A]
+Threshold[V]
+Clock Rate = Xung đồng hồ
+TrafficLight Settings = Thiết lập Đèn báo hiệu
+BCDSegment Settings = Thiết lập hiển thị BCD
+SevenSegment Settings = Thiết lập hiển thị 7 đoạn
+SPDT Settings = Thiết lập SPDT
+SPST Settings = Thiết lập SPST
+LogicAnalyzer Settings = Thiết lập phân tích Lô gic
+Fuse Settings = Thiết lập cầu chì
+Wattmeter Settings = Thiết lập đo Công suất
+open = mở
+close = đóng
+Common Anode = Cực Dương chung
+Common Cathode = Cực Âm chung
+AC Amplitude = biên độ AC
+AC Phase = Pha AC
+There are some parts haven't spice model, please use "EElib" and "Spice Symbol" at "Libraries" of "Simulation" mode, or you can assign the spice model for them: = Có một số linh kiện không có mẫu mô phỏng, hãy dùng "EElib" và "Linh kiện mô phỏng" ở mục "Thư viện" trong chế độ "Mô phỏng", hoặc bạn cũng có thể gán mẫu linh kiện mô phỏng cho chúng:
+
+#Pin
+Pin Attributes = Thuộc tính chân linh kiện
+Orientation = Hướng
+Line 45° = Đường 45°
+Line 90° = Đường 90°
+Arc 45° = Cung 45°
+Arc 90° = Cung 45°
+Free Angle = Vẽ góc tùy ý
+Start X = Điểm bắt đầu X
+Start Y = Điểm bắt đầu Y
+Length = Chiều dài
+Name = Tên
+name = tên
+Number = Số
+Spice Pin Order = Thứ tự chân linh kiện mô phỏng
+Display Number = Số hiển thị
+Clock = Đồng hồ
+Show = Hiển thị Chân linh kiện
+Electric = Đặc tính điện học
+
+#Junction
+Junction Attributes = Thuộc tính điểm nối
+X Location = Vị trí X
+Y Location = Vị trí Y
+Size = Kích thước
+Color = Màu
+
+#Net Label
+Net Label = Nhãn mạch
+
+#Part
+Prefix = Tiền tố
+
+#Image Attributes and Dialog
+Add Image = Thêm Ảnh
+Image Attributes = Thuộc tính Ảnh
+Image URL = Địa chỉ URL của Ảnh
+Input an image URL = Hãy nhập địa chỉ URL ảnh
+Invalid image URL = Địa chỉ URL của ảnh không hợp lệ
+Invalid Prefix = Tiền tố không hợp lệ
+Failed to load the image = Không tải được hình ảnh
+Image URL contains special characters = Địa chỉ URL của ảnh có chứa ký tự đặc biệt
+From Web URL = Từ địa chỉ WebL
+From Local Computer = Từ máy tính
+Please select a png/gif/jpg file. = Vui lòng chọn tập tin tin dạng png / gif / jpg.
+Please select an image file. = Vui lòng chọn tập tin hình ảnh.
+Select an image file = Chọn tập tin hình ảnh
+Insert Image to PCB = Chèn hình ảnh vào bản mạch PCB
+Tolerance = Sai số
+tolerance = sai số
+capacitance = dung kháng
+frequency = tần số
+Rated Voltage = Điện áp danh định
+Rated Current = Dòng hiện thời
+resistance = trở kháng
+Resistance = Trở kháng
+Resistance[Ω] = Trở kháng[Ω]
+inductance = cảm kháng
+Operating Temperature = Nhiệt độ làm việc
+Shape Invert = Đảo ngược hình ảnh
+Image Size = Kích thước ảnh
+Color Tolerance = Dung sai màu
+Simplify Level = Mức đơn giản
+Corner Threshold = Giới hạn góc
+
+#PCB Canvas Attributes
+Units = Đơn vị
+Snap Size = Khoảng cách tự dính
+Other = Khác
+Routing Width = Chiều rộng đường mạch
+[router]
+Routing Width = Chiều rộng đường mạch
+[/router]
+Please using hotkey {0}{shiftw}{1} or {2}{tab}{3} to change track width while on routing. = Hãy sử dụng phím nóng {0}{shiftw}{1} hoặc {2}{tab}{3} để thay đổi độ rộng đường mạch khi đang vẽ mạch. 
+Routing Angle = Góc đường mạch
+Routing Conflict = Xung đột đường mạch
+Remove Loop = Loại bỏ vòng lặp
+Cut SilkScreen = Cắt đế linh kiện (SilkScreen)
+Grid = Lưới vẽ
+Grid 90 = Lưới 90
+Grid 45 = Lưới 45
+Copper Zone = Khu vực phủ đồng
+Visible = Hiển thị
+Invisible = Không hiển thị
+Ignore = Bỏ qua
+Block = Chặn
+RoundTrack = Đi vòng
+
+#Track
+Track Properties = Tính chất đường mạch
+Layer = Lớp mạch
+Net = Mạch
+Start X = Điểm bắt đầu X
+Start Y = Điểm bắt đầu Y
+End X = Điểm kết thúc X
+End Y = Điểm kết thúc Y
+ID = Mã
+
+#Pad Properties
+Pad Properties = Thuộc tính phiến đế linh kiện
+Shape = Hình dạng
+Hole(D) = Đường kính lỗ (D)
+Center X = Trọng tâm X
+Center Y = Trọng tâm Y
+Round = Vòng tròn
+Oval = Bầu dục
+Hole Shape = Hình dạng lỗ
+Slot = Khe
+Hole(Length) = Chiều dài lỗ
+Plated = Mạ phủ
+None = Không
+Paste Mask Expansion = Mở rộng điểm dán
+Solder Mask Expansion = Mở rộng điểm hàn
+
+#Via Properties
+Via Properties = Đặc tính Via
+Diameter = Đường kính
+Drill Diameter = Đường kính khoan
+
+#Hole Properties
+Hole Properties = Đặc tính Lỗ
+
+
+#TEXT
+Text Properties = Đặc tính chữ
+Line Width = Chiều rộng dòng
+Rotation = Góc quay
+Fonts Management = Quản lý Phông chữ
+
+#Dimension Attributes
+Dimension Attributes = Thuộc tính kích thước
+
+#Footprint Attributes
+Component Attributes = Đặc tính linh kiện
+Display Prefix = Tiền tố
+Pin Name = Tên Chân 
+Pin Number = Số Chân
+Spice Pin Number = Số chân linh kiện
+Graphics = Đồ họa
+Pattern = Kiểu nền
+
+#Arc Properties
+Arc Properties = Đặc tính Cung
+Start Angle = Góc bắt đầu
+End Angle = Góc kết thúc
+Rotation Direction = Hướng xoay
+
+#Rect Properties
+Rect Properties = Thuộc tính chữ nhật
+Round radius = Bán kính bo góc
+
+#Circle Properties
+Circle Properties = Thuộc tính đường tròn
+Radius = Bán kính
+
+#CopperArea Properties
+CopperArea Properties = Đặc tính Vùng phủ đồng
+Clearance = Khoảng cách để trắng từ đường mạch
+Pad Connection = Kết nối phiến đế linh kiện
+Direct = Trực tiếp
+Spoke = Kiểu nan hoa
+Keep Island = Cô lập
+Fill Style = Kiểu phủ
+CopperArea conflict: copper area outlines in same layer with different net names must not overlap = Xung đột vùng phủ đồng: đường bao vùng vủ đồng không được chồng lên đường mạch khác trên cùng một lớp mạch
+Copper area rebuild complete! You can set "Copper Zone" as "Visible" at the right-hand property panel after single click the empty area. = Thiết lập xong vùng phủ đồng! Bạn có thể Hiện "Vùng phủ đồng" bằng thanh điều khiển bên phải sau khi nhấn chuột đơn vào vùng trống.
+Please create board outline first. = Hãy tạo hình vẽ đường biên bản mạch trước
+Board outlines are not closed. = Đường biên của bản mạch không kín
+Rebuild CopperArea = Thiết lập lại vùng phủ đồng
+Edit Points = Sửa điểm nối
+Direct = Trực tiếp
+Spoke = Kiểu nan hoa
+No Solid = Không phủ kín
+Board Cutout = Vùng cắt bản mạch
+Solid = Phủ kín
+[copperArea]
+None = Không có gì
+[/copperArea]
+
+#Custom Attributes
+Custom Attributes = Đặc tính tùy chỉnh
+Fixed Attributes = Đặc tính cố định
+Add new parameter = Thêm thông số mới
+Add New Parameter = Thêm thông số mới
+Add New Supplier = Thêm Nhà Sản xuất mới
+Mounted = Gắn
+Unknown = không xác định
+
+Custom = Tùy chỉnh
+Scan the QR code below and open it on the mobile side = Quét mã QR và mở trên điện thoại
+How to create a single layer PCB = Làm thế nào để tạo bản mạch PCB một lớp
+Currently doesn't support layout single layer directly, please refer at: = Hiện không hỗ trợ vẽ một lớp trực tiếp, xin tham khảo thêm tại:
+
+#Dialog Register
+Create an account = Tạo tài khoản
+Username = Tên người dùng
+Password = Mật khẩu
+Confirm Password = Xác nhận mật khẩu
+Email = Thư điện tử
+Please read this before you register = Hãy đọc trước khi đăng ký
+Hi {username} = Xin chào {username}
+
+#Dialog lostPassword
+Lost Password... = Quên mật khẩu...
+Find the password using your email = Lấy lại mật khẩu bằng thư điện tử
+
+
+
+#Dialog Login
+Login = Đăng nhập
+Username or Email = Tên người dùng hoặc thư điện tử
+Remember Me = Ghi nhớ đăng nhập
+Third party = Bên thứ ba
+Login and Register = Đăng nhập và đăng ký
+Your login information seems expired, please login again. Don't need to close the opening files, you can continue to save them after login. = Thông tin đăng nhập của bạn đã hết hạn, hãy đăng nhập lại. Không cần phải đóng các tập tin đang mở, bạn có thể tiếp tục lưu chúng lại sau khi đăng nhập.
+
+#Dialog Reset Password
+Reset a password using your email = Lập lại mật khẩu bằng thư điện tử
+Your registered email = Địa chỉ thư điện tử đã đăng ký
+
+#Dialog Reaction
+Re-send an activation code to your email = Gửi lại mã kích hoạt qua thư
+
+#Dialog Invite
+Invite friends to register = Mời bạn bè đăng ký
+Your friend's email = Thư điện tử của bạn bè
+
+#Dialog Add A New Parameter
+Add a new parameter = Thêm thông số
+Key = Khóa
+Value.new_para = Tham số
+In BOM = Trong bảng linh kiện (BOM)
+Add into BOM = Thêm vào Bảng linh kiện (BOM)
+Invalid key = Khóa không đúng
+This field is required. = Trường này bắt buộc phải nhập
+
+#Dialog Change Your Password
+Change your password = Thay đổi mật khẩu
+Old password = Mật khẩu cũ
+New Password = Mật khẩu mới
+Confirm Password = Xác nhận mật khẩu
+
+#Dialog Create New Design
+Save as a New Project = Lưu thành dự án mới
+Save as a schematic = Lưu thành bản vẽ mạch (schematic)
+Save as Symbol = Lưu thành ký hiệu Linh kiện
+Save as a spice Symbol = Lưu dưới dạng biểu tượng linh kiện mô phỏng (Spice)
+Save as a spice subckt = Lưu dưới dạng mạch phụ của linh kiện mô phỏng
+YOU MUST CREATE A SPICE SYMBOL WITH EXACTLY THE SAME NAME AS THIS SUBCKT = BẠN PHẢI TẠO BIỂU TƯỢNG LINH KIỆN CÓ TÊN ĐÚNG NHƯ SUBCKT NÀY
+Save as a PCB file = Lưu dưới dạng tập tin PCB
+Save as Footprint = Lưu thành mẫu (Footprint)
+Save as a Schematic Module = Lưu dưới dạng bản vẽ mô đun
+Save as a PCB Module = Lưu dưới dạng mô đun mạch PCB
+Save as 3D Model = Lưu thành mô hình 3D
+Save as a WaveForm = Lưu thành dạng Sóng (WaveForm)
+Title = Tiêu đề
+Share = Chia sẻ
+Add file = Thêm tập tin
+Visibility = Đặc tính Hiển thị
+Allow Comments = Cho phép nhận xét
+Public (Anyone can see this project but only you can modify it.) = Công khai (Ai cũng xem được nhưng chỉ bạn mới có thể sửa đổi)
+Private (Only you can see and modify this project) = Riêng tư (chỉ bạn mới có thể xem và sửa đổi)
+Create new project success! = Tạo Dự án mới thành công
+You can now create files under this project = Bây giờ bạn có thể tạo các tập tin theo dự án này
+This file must be saved under a project, choose other project or create a new project = Tập tin này cần phải được lưu theo một dự án, hãy chọn dự án hoặc tạo một dự án mới.
+Please login to save this kind of document = Hãy đăng nhập để có thể lưu loại tài liệu này
+Duplicated project title = Tên dự án bị trùng
+#Duplicated document title
+Project does not exist =Dự án không tồn tại
+Document does not exist = Tài liệu không tồn tại
+document not exists = tài liệu không tồn tại
+
+Categories = Nhóm
+Project = Dự án
+Short description = Mô tả ngắn
+Content = Nội dung
+Modify this project info. = Sửa đổi thông tin dự án.
+Modify this file info. = Sửa đổi thông tin của tập tin
+Notice = Lưu ý
+Search for it before creating a new one. = Hãy thử tìm kiếm trước khi tạo mới.
+Manufacturer Part Number = Mã linh kiện của Nhà sản xuất
+Supplier = Nhà Sản xuất
+Or = Hoặc
+Supplier Part = Linh kiện của Nhà cung cấp
+Supplier Part Number = Mã linh kiện của Nhà cung cấp
+Link = Liên kết
+link = liên kết
+The professional function please refer at: = Xem thêm hàm chuyên sâu tại: 
+
+#Dialog Clone My Part
+#Clone it to a project
+#Clone it, then edit it
+Clone your file = Nhân bản tập tin
+
+#Dialog Subckt
+Attach a Subckt to this spice symbol = Thêm dữ liệu mô hình mô phỏng cho linh kiện này
+Subckt string = Chuỗi dữ liệu mô hình
+Spice symbol title just allow [0-9][a-z][A-Z] and _=Tên Ký hiệu mô hình mô phỏng chỉ cho phép các ký tự [0-9][a-z][A-Z] và _
+
+#Design Manager
+Design Manager = Quản lý Thiết kế
+Nets = Mạch
+DRC Errors = Lỗi DRC
+Are you sure you want to unroute this net? = Bạn có chắc chắn muốn xóa mạch này?
+Unroute = Bỏ đường mạch
+Track Length = Độ dài đường mạch
+Via/Hole Outer Size = Kich cỡ ngoài của lỗ Via/Lỗ
+Filter nets = Lọc mạch
+Design Rule Checking = Kiểm tra nguyên tắc thiết kế
+Board Outline = Bo bản mạch PCB
+Plane Zone = Vùng mặt phẳng
+[drcRule]
+Width = Chiều rộng
+DRC Width = Độ rộng DRC 
+Length = Chiều dài
+DRC Length = Chiều dài DRC 
+Drill Diameter = Đường kính lỗ khoan
+DRC Drill Diameter = Đường kính lỗ khoan DRC
+Diameter = Đường kính
+DRC Diameter = Đường kính DRC
+Object = Linh kiện
+DRC Clearance = Khoảng hở DRC
+[/drcRule]
+#It will take a while to unroute this net, do you want to continue?
+More than one netlabel is found in wire, please checked whether this is correct, if you design it on purpose, please ignore this warning. = Có nhiều tên mạch khác nhau trên cùng một đường mạch, hãy kiểm tra lại xem có chuẩn không. Nếu đó là chủ định của bạn, hãy bỏ qua cảnh báo này.
+Incomplete net, a complete net should contain two or more pins, if you design it on purpose, please ignore this warning. = Mạch chưa hoàn thiện, mạch hoàn thiện sẽ nối ít nhất 2 chân linhh kiện trở lên. Nếu đó là chủ định của bạn, hãy bỏ qua cảnh báo này.
+This netlabel is not connected with any pin. = Tên đường mạch này không nối với chân linh kiện nào.
+Incomplete connection, please check. = Kết nối không kín, hãy kiểm tra lại.
+The clearance between two objects is less than the Design Rule Checking (DRC) clearance which has different nets. = Khoảng hở giữa 2 Linh kiện nhỏ hơn mức quy định trong Nguyên tắc thiết kế (DRC) đối với khoảng hở giữa các đường mạch khác nhau.
+The diameter is less than Design Rule Checking (DRC) diameter = Đường kính này nhỏ hơn đường kính quy định trong Nguyên tắc thiết kế (DRC)
+The drill diameter is less than Design Rule Checking (DRC) drill diameter = Đường kính lỗ khoan nhỏ hơn đường kính quy định trong Nguyên tắc thiết kế (DRC)
+The track length is longer than Design Rule Checking (DRC) track length =Chiều dài đường mạch lớn hơn so với quy định trong Nguyên tắc thiết kế (DRC)
+The track width is less than Design Rule Checking (DRC) track width =Độ rộng đường mạch này nhỏ hơn so với quy định trong Nguyên tắc thiết kế (DRC)
+
+#Dialog Simulation
+Show your simulation report = Hiển thị báo cáo mô phỏng
+Download netlist = Tải xuống danh sách đường mạch
+Run = Thực thi
+Components = Linh kiện
+
+#Dialog Import
+Import file from your computer = Nhập tập tin từ máy tính của bạn
+Maximum file size: 30 MB = Kích thước tập tin tối đa: 30MB
+Maximum file size: 100 MB = Kích thước tập tin tối đa: 100MB
+Chose file = Chọn tập tin
+File Operation = Thao tác tập tin
+Import File = Nhập tập tin tin
+Extract Libs = Trích xuất các tập tin thư viện
+Import File and Extract Libs = Nhập tập tin và Trích xuất thư viện
+File type = Loại tập tin
+The file size is too large. = Kích thước tập tin quá lớn
+Please selected the file type. = Vui lòng chọn loại tập tin
+No component was found! = Không tìm thấy linh kiện
+Import successfully = Nhập thành công
+Import failed = Nhập không thành công
+Click OK to continue with the import = Nhấn OK để tiếp tục quá trình nhập
+Select None = Không chọn gì cả
+
+#Dialog Modify Symbol Information
+Modify symbol information = Sửa đổi thông tin linh kiện
+Spice Prefix = Tiền tố linh kiện mô phỏng (Spice)
+Hide Pin = Ẩn chân Linh kiện
+Pin Manager = Trình quản lý Chân linh kiện
+When a power pin is hidden, it will be marked as netlabel, you don't need to wire it. If you use it as simulation, please show it or create a GND/VCC Net for it. = Khi một chân nguồn bị ẩn, nó sẽ được đánh dấu là nhãn đường mạch, bạn không cần phải nối mạch với nó. Nếu bạn dùng nó cho Mô phỏng, hãy hiển thị nó hoặc tạo ra tên mạch GND/VCC cho nó.
+Assign = Ấn định
+Supplier.bom = Nhà Sản xuất linh kiện
+LCSC.bom = Số LCSC
+Price = Giá
+Quantity.bom = Số lượng
+Package.bom = Kiểu
+Components.bom = Tên linh kiện
+Manufacturer Part.bom = Mã số
+Manufacturer.bom = Nhà sản xuất
+
+One-click Purchasing at LCSC = Nhấn để mua Trung tâm mua sắm LCSC (Li Chong)
+Order Parts/Check Stock = Đặt hàng/ Kiểm tra kho hàng
+Export BOM = Xuất bảng linh kiện
+Export PCB BOM = Xuất bảng mạch
+Export Schematic BOM = Xuất bản vẽ
+ID.bom = Mã
+Name.bom = Tên
+[bom]
+Name = Tên
+LCSC Assembly = Dây chuyền sản xuất LCSC 
+Value = Trị số
+ID = Mã
+Supplier = Nhà Cung cấp
+LCSC = Mã LCSC
+Price = Giá
+Quantity = Số lượng
+Package = Kiểu
+Components = Tên linh kiện
+Manufacturer [/bom]= Nhà sản xuất [/ bom]
+Manufacturer Part = Mã linh kiện của nhà sản xuất
+
+#Dialog Run
+Run your simulation = Chạy mô phỏng
+Transient = Tức thời
+Maximum Timestep = Nhịp thời gian tối đa
+Stop Time = Bắt đầu
+Start Time = Kết thúc
+
+AC Analysis = Phân tích AC
+Type of Sweep = Kiểu quét
+Number of points = Số điểm
+Start Frequency = Tần số bắt đầu
+Stop Frequency = Tần số kết thúc
+
+DC sweep = Quét DC
+Source to Sweep = Nguồn quét
+Start Value = Giá trị ban đầu
+Stop Value = Giá trị kết thúc
+Increment = Nhịp tăng
+DC Transfer = Chuyển DC
+Output = Đầu ra
+Source = Nguồn
+
+DC op pnt = op pnt điện một chiều
+Compute the DC operating point treating capacitances as opens and inductances as shorts = Tính toán các điểm một chiều DC, coi dung kháng là mở và cảm kháng là đóng
+
+#Dialog Share Info
+Active File = Tài liệu hiện tại
+Active Project = Dự án hiện tại
+Readonly = Chỉ đọc
+Editable = Có thể chỉnh sửa được
+Active file's owner project page = Trang dự án của chủ sở hữu tập tin gốc
+Active project editor page = Trang soạn thảo thông tin về dự án
+
+#Dialog Document Recovery
+All Projects = Tất cả Dự án
+Document Recovery = Phục hồi tài liệu
+Unsaved files = Tài liệu chưa được lưu
+Please select a file! = Hãy chọn một tập tin!
+Please expand the folder first, then select a document to recover. = Hãy mở thư mục trước, sau đó chọn một tài liệu để khôi phục.
+Are you sure you want to remove this backup? = Bạn có chắc chắn muốn xóa bản sao lưu này?
+
+#Dialog Find Libs
+Search = Tìm kiếm
+Search Results = Kết quả tìm kiếm
+Search and press Enter = Nhấn Enter để tìm kiếm
+Keywords at least 3 characters = Từ khóa cần có tối thiểu 3 ký tự
+Assembled = Đã đóng gói
+Verified = Đã xác minh
+In stock = Đang còn hàng
+{page} of {pagecount} pages = Trang {page} / trang {pagecount}
+Common Modules = Mô đun phổ biến
+User Contributions = Đóng góp của người dùng
+More = Thêm
+Add Favorite = Thêm vào Mục yêu thích
+Remove Favorite = Xóa khỏi mục yêu thích
+Add Sub Part = Thêm thư viện con
+Untagged = Không gắn nhãn
+Package = Kiểu đóng gói
+package = kiểu đóng gói
+Title(PartNO) = Tiêu đề (Tên linh kiện)
+No Data! = Không có số liệu!
+Quantity = Số lượng
+Manufacturer Part = Linh kiện của Nhà sản xuất
+manufacturer Part = linh kiện của Nhà sản xuất
+Manufacturer [/ bom]= Nhà sản xuất [/ bom]
+manufacturer = nhà sản xuất
+voltage = Điện áp
+Library = Thư viện
+LCSC Assembled = Đóng gói tại LCSC (Li Chong)
+JLCPCB Assembled =Đóng gói tại JLCPCB
+User Contributed = Đóng góp của người dùng
+Symbol = Ký hiệu linh kiện
+Follow = Quan tâm
+Types = Kiểu
+Classes = Lớp
+power = nguồn điện
+Power = Nguồn điện
+LCSC Part# = Trung tâm mua sắm linh kiện LCSC (Li Chong)
+Stock [lib]= Còn hàng [lib]
+Report Error... = Báo cáo lỗi...
+Report Error =Báo cáo lỗi
+Thanks for your feedback! = Cảm ơn ý kiến phản hồi của bạn!
+Report error success, thanks for your report! = Báo cáo lỗi thành công, cảm ơn bạn đã báo cáo!
+The content must be at least 2 characters! = Nội dung này phải có ít nhất 2 ký tự!
+This library is user contributed, please check before using. = Thư viện này là do người dùng cung cấp, hãy kiểm tra kỹ trước khi dùng.
+[lib]
+All = Tất cả
+System = Trong Hệ thống
+Personal = Cá nhân
+Created = Đã tạo
+Favorite = Yêu thích
+No Team found. Please join or create a team first. = Không tìm thấy Nhóm nào. Hãy tham gia hoặc tạo ra một nhóm trước.
+Create a team = Tạo nhóm
+No follow user found. Please follow your friend first. = Không có ai theo dõi. Hãy theo dõi bạn của bạn trước đã.
+[/lib]
+
+
+BUY = MUA
+In Stock = Đang còn hàng
+Out of Stock = Hết hàng
+Minimum = Đơn tối thiểu
+Distributor = Người phân phối
+
+Capacitance = Dung kháng
+Frequency Tolerance = Dung sai vè tần số
+Power (Watts) = Công suất nguồn (W)
+Power - Max = Nguồn - Tối đa
+Frequency = Tần số
+Voltage Rating(Vdc,Vac) = Điện áp danh định(Vdc,Vac) 
+Voltage = Điện áp
+Current Rating = Đong hiện thời
+Rated current = Dòng danh định
+Resistance (Ohms) = Trở kháng (Ohms)
+Resistance(Ohms) = Trở kháng (Ohms)
+Inductance = Cảm kháng
+FET Type = Loại FET
+Current Rating(Max) = Dòng danh định (tối đa)
+Impedance @ Frequency = Trỏ kháng @ Tần số
+Voltage - Input (Max) = Điện áp - Vào (Tối đa)
+Voltage - Input (Min) = Điện áp - Vào (Tối thiểu)
+Voltage - Supply = Điện áp - Nguồn
+Voltage - Max = Điện áp - Tối đa
+Current - Output = Dòng - Ra
+
+#Dialog Export Your Works
+Export your works = Xuất sản phẩm của bạn
+Export to = Xuất tới
+Zoom = Phóng to
+Image Type = Loại hình ảnh
+Qualify = Chất lượng
+0 means real size = 0 ứng với kích thước thực tế
+Merged layer = Ghép lớp
+Separated layer = Tách lớp
+Paged layer = Phân lớp theo trang
+Layer = Lớp
+Export = Xuất
+Mirror = Ánh xạ
+TopLayer = Lớp trên
+BottomLayer = Lớp dưới
+TopSilkLayer = Lớp đế linh kiện trên
+Protractor Attributes = Đặc tính góc
+BottomSilkLayer = Lớp đế linh kiện dưới
+BoardOutLine = Đường bao bảng mạch
+TopAssembly = Lớp lắp ráp trên
+BottomAssembly = Lớp lắp ráp dưới
+Mechanical = Lớp thao tác cơ khí
+DocumentLayer = Lớp thông tin
+Inner{number} = Bên trong{number}
+Substrate{number} = Nền{number}
+Color = Màu
+Full Color = Màu đầy đủ
+Canvas Setting = Cài đặt nền vẽ
+Full Graphics = Đồ họa đầy đủ
+Assembly Drawings = Bản vẽ sơ đồ lắp ráp
+Object Outlines = Tổng quan linh kiện
+Invalid file format = Định dạng tập tin không hợp lệ
+Failed to export file = Xuất tập tin không thành công
+Download now = Tải xuống ngay
+Wire Width = Chiều rộng đường mạch
+Sheet = Trang bản vẽ
+Merged sheet = Hợp nhất trang
+Separated sheet = Tách trang
+Engine = Nền tảng
+Exporting PDF = Xuất ra PDF
+Export 3D Model = Xuất mô hình 3D
+[exportDocument]
+Size = Kích thước
+[/exportDocument]
+
+#Dialog Import Changes
+Confirm Importing changes information = Xác nhận Nhập những thay đổi
+You can't undo this operation, Please run a Design Rule Checking (DRC) after this operation. = Bạn không thể hoàn tác hành động này. Hãy chạy lệnh Kiểm tra nguyên tắc thiết kế (DRC) sau khi thực hiện hành động này.
+Apply Changes = Thực hiện thay đổi
+This is a simple Design Rule Checking (DRC). = Đây là lệnh Kiểm tra nguyên tắc thiết kế (DRC) đơn giản.
+It just can help you to find the obvious errors = Chỉ để giúp bạn tìm ra một số lỗi rõ ràng
+There are some unfinished nets, do you want to check the nets first? = Có một số đường chưa hoàn thiện, bạn có muốn kiểm tra đường mạch trước không?
+Yes, Check Nets = Có, Kiểm tra
+No, Keep Going = Không, đi tiếp
+
+#Dialog Layer Manager
+Configured = Đã thiết lập
+Layer Name = Tên lớp
+TopPasterLayer = Lớp phủ trên
+BottomPasterLayer = Lớp phủ dưới
+TopSolderLayer = Lớp hàn trên
+BottomSolderLayer = Lớp hàn dưới
+TopPasteMaskLayer = Lớp đánh dấu trên
+BottomPasteMaskLayer = Lớp đánh dấu dưới
+TopSolderMaskLayer = Lớp đánh dấu hàn trên
+BottomSolderMaskLayer = Lớp đánh dấu hàn dưới
+ComponentShapeLayer = Lớp phác hình linh kiện
+LeadShapeLayer = Lớp tiếp giáp
+ComponentMarkingLayer = Lớp đánh dấu linh kiện
+Ratlines = Đường phác kết nối linh kiện
+Ratlines Color = Màu đường phác
+Manage Colors = Quản lý màu
+BoardOutline = Đường bao bo mạch
+Multi-Layer = Nhiều lớp
+Hole = Lỗ
+DRCError = Lỗi DRC
+Setting = Thiết lập
+Drawing area = Khu vực vẽ
+Export area = Khu vực xuất
+Transparency(%) = Độ trong suốt (%)
+Copper Layer = Lớp phủ Đồng
+Signal = Tín hiệu
+Plane = Mặt phẳng
+Non-Signal = Không có tín hiệu
+Other = Khác
+Please delete all the objects of the layers first! The layers are: = Hãy xóa tất cả các đối tượng tại các lớp trước! Các lớp gồm: 
+You are converting Signal Layer to Plane Layer, There're some non-track objects remain on following layers. Please delete the objects manually on the canvas. = Bạn đang chuyển Lớp tín hiệu sang mặt phẳng, Có một số đối tượng không có đường mạch vãn còn trên các Lớp. Hãy xóa chúng bằng tay trên nền vẽ.
+Please delete all the objects of this layer first! = Hãy xóa các đối tượng trên Lớp này trước!
+
+#Dialog Fabrication Output
+Create Files = Tạo tập tin
+Check your {0}Gerber files{1} carefully before sending them to the factory = Trước khi đến nhà máy, kiểm tra lại {0} tập tin Gerber {1}
+Download free Gerber Viewer (gerbv) = Tải trình xem tập tin Gerber (gerbv) miễn phí
+Before generating the Gerber files = Trước khi tạo tập tin Gerber
+Please check the packages size and orientation carefully. = Hãy kiểm tra cẩn thận kích thước linh kiện và chiều sắp xếp chúng thật cẩn thận.
+Please check for Design Rule Checking (DRC) errors in the Design Manager. = Hãy kiểm tra các lỗi vi phạm Nguyên tắc thiết kế (DRC) trong trình thiết kế.
+Please rebuild the copper area after modifying tracks and packages. = Hãy dựng lại vùng phủ đồng sau khi thiết lập đường mạch và linh kiện.
+After generating the Gerber file, please use the {0}Gerber Viewer{1} to check whether it conforms to the design requirements. = Sau khi tập tin Gerber được tạo ra, sử dụng trình xem {0} tập tin Gerber {1} để xem tập tin Gerber có đáp ứng các yêu cầu thiết kế
+Order PCB/SMT at JLCPCB = Đặt mua PCB/SMT tại JLCPCB
+Found the complicated polygon object can not be generated at Gerber, please remove or replace = Phát hiện đối tượng đa giác phức tạp không thể tạo ra được trên tập tin Gerber
+ID: {id}, Object: {object}, Location: {location} = Mã: {id}, Đối tượng: {object}, Vị trí: {location} 
+
+#Dialog DRC
+Item = Mục
+Value = Giá trị
+value = giá trị
+Unit = Đơn vị
+Track Width = Chiều rộng đường mạch
+Track to Track = Giữa các đường mạch
+Track to Pad = Từ đường mạch đến phiến đế linh kiện
+Pad to Pad = Giữa các phiến đế linh kiện
+Via to Via = Giữa các lỗ Via
+Via Hole Size = Kích thước lỗ Via
+Realtime DRC = Quy tắc thiết kế trực tiếp
+{0} is too small! = {0} là quá nhỏ!
+Invalid DRC Rule = Quy tắc DRC không hợp lệ
+Rule = Quy tắc
+Via Diameter = Đường kính Via
+Via Drill Diameter = Đường kính khoan Via
+Net List = Danh sách đường mạch
+Rule = Quy tắc
+Set Rule = Thiết lập Quy tắc
+Check Object to Copper Area = Kiểm tra Linh kiện theo Mảng phủ đồng
+Show DRC Boundary while Routing = Hiển thị ranh giới DRC trong khi thiết lập đường mạch
+Check Object to Board Outline = Kiểm tra linh kiện theo Đường bao bản mạch
+Rule name already exists! = Đã có tên quy tắc này!
+You should not delete default rule! = Bạn không nên xóa quy tắc mặc định!
+Rule list contains invalid rule setting! = Danh sách quy tắc có chứa thiết lập không hợp lệ!
+Duplicate rule name exists! = Tên quy tắc bị trùng!
+via diameter is smaller than via drill diameter! = đường kính Via nhỏ hơn đường kính khoan lỗ Via
+Currently rule name is not allowed to contain magical characters like . and $ = Hiện tại, tên quy tắc không cho phép có các ký tự đặc biệt như . và $
+[drcRule]
+All = Tất cả
+[/drcRule]
+
+#Dialog Update PCB
+Update PCB(Synchronizing PCB from schematics) = Cập nhật bản mạch PCB (Đồng bộ bản mạch PCB với bản vẽ)
+
+
+#Dialog Hotkey
+Change Canvas Unit = Thay đổi Đơn vị cho nền vẽ
+Copy Selected Object(s) by Reference Point = Sao chép Linh kiện đã chọn theo Điểm tham chiếu
+Fullscreen = Toàn màn hình
+Undo the Previous Draw = Hoàn tác động tác vẽ trước
+Set Canvas Origin by Coordinate = Thiết lập gốc Nền vẽ theo tọa độ
+Switch to the Next Signal Layer = Chuyển sang Lớp tín hiệu tiếp theo
+Switch to the Previous Signal Layer = Chuyển sang Lớp tín hiệu trước
+Switch object to top layer or bottom layer = Chuyển linh kiện ra lớp trên hoặc dưới cùng
+Cycle Forward to the Next Open Tabbed Document = Chuyển về phía trước Trang tài liệu tiếp theo đang mở
+Cycle Backward to the Previous Open Tabbed Document = Chuyển về phía sạu Trang tài liệu tiếp theo đang mở
+Switch to the Previous Layer(on the Numeric Keypad) = Chuyển về Lớp trước (trên bàn phím số)
+Switch to the Next Layer(on the Numeric Keypad) = Chuyển về Lớp sau (trên bàn phím số)
+Toggle Layers Which is Not Active = Bật/tắt lớp đang ẩn
+Hotkey Setting = Cài đặt phím nóng 
+Document Type = Loại tài liệu
+Shortcut = Phím tắt
+Function = Chức năng
+ALL = Tất cả
+SCH = Sơ đồ
+Rotate Selected Objects = Xoay Linh kiện đang chọn
+Scroll or Move Selected Left = Chuyển đến hay Di chuyển Linh kiện đang chọn sang trái
+Scroll or Move Selected Right = Chuyển đến hay Di chuyển Linh kiện đang chọn sang phải
+Scroll or Move Selected Up = Chuyển đến hay Di chuyển Linh kiện đang chọn lên trên
+Scroll or Move Selected Down =Chuyển đến hay Di chuyển Linh kiện đang chọn xuống dưới
+Set canvas origin to the center grid of graphics in symbol; Set canvas origin to the center of pads in footprint. = Thiết lập gốc nền vẽ ra giữa lưới hình ảnh trong ký hiệu linh kiện; Thiết lập gốc nền vẽ ra giữa phiến đế mẫu linh kiện.
+Cross Document Paste = Dán chéo tài liệu
+Explore & Find Components = Duyệt và tìm các thư viện linh kiện
+Select All = Chọn tất cả
+Cancel Current Drawing = Hủy hành động vẽ hiện tại
+Save = Lưu lại
+Drag Tool = Kéo
+Draw Wire = Vẽ mạch
+Draw Bus = Vẽ mạch chính
+Bus Entry = Đầu vào mạch chính
+Junction = Điểm nối
+Net Flag GND = Đặt tên mạch GND
+Net Flag = Tên mạch
+Draw Polyline = Vẽ đường thẳng
+Draw Polygon = Vẽ đa giác
+Draw Bezier = Vẽ Bezier
+Draw Arc = Vẽ đường cong
+Draw Rect = Vẽ góc vuông
+Draw Ellipse = Vẽ hình bầu dục
+Freehand Draw = Vẽ tự do
+Freedraw = Vẽ tự do
+Draw Text = Vẽ ký tự
+Edit Selected Symbol = Sửa đổi linh kiện đã chọn
+Draw Track = Vẽ đường mạch
+Draw Circle = Vẽ vòng tròn
+Cycle Select Object at Current Location = Luân chuyển lựa chọn linh kiện tại Khu vực hiện thời
+Draw Dimension = Kích thước vẽ
+Draw Connect = Vẽ điểm nối
+Draw CopperArea = Vẽ vùng phủ đồng
+Change to TopLayer;<br/>Change Selected Component's Layer to TopLayer; = Chuyển đến lớp trên cùng;<br/> CHuyển lớp linh kiện đang chọn lên lớp trên cùng;
+Change to BottomLayer;<br/>Change Selected Component's Layer to BottomLayer; =Chuyển đến lớp dưới cùng;<br/> CHuyển lớp linh kiện đang chọn xuống lớp dưới cùng;
+Change to Inner1 = Chuyển vào phía trong1
+Change to Inner2 =Chuyển vào phía trong2
+Change to Inner3 =Chuyển vào phía trong3
+Change to Inner4 =Chuyển vào phía trong4
+Highlight Net = Làm nổi đường mạch
+Place Pad = Thêm phiến đế linh kiện
+Place Via = Thêm lỗ Via
+Measure = Đo
+Change Routing Angle = Thay đổi góc đường mạch
+Change Routing Conflict = Thay đổi đường mạch xung đột
+Decrease Routing Width = Giảm chiều rộng đường mạch
+Increase Routing Width = Tăng chiều rộng đường mạch
+Decrease Snap Size = Giảm kích thước điểm dính lưới
+Increase Snap Size = Tăng kích thước điểm dính lưới
+Change Copper Zone Visible or Invisible = Ẩn/ Hiện vùng phủ đồng
+Rebuild All Copper Area = Thiết lập tất cả các vùng phủ đồng
+Toggle PCB Net Display = Ẩn/hiện mạch trên PCB
+Show Attribute Dialog When Placing Object;<br/>Show Location Setting Dialog When Pasting Object(s) = Hiển thị hộp thoại thuộc tính khi chèn linh kiện;<br/>Hiển thị Hộp thoại thiết lập vị trí khi dán linh kiện
+Show Attribute Dialog When Placing Object;<br/>Show Absolute Offset Dialog When Selecting Object(s);<br/>Show Location Setting Dialog When Pasting Object(s) = Hiển thị hộp thoại thuộc tính khi chèn linh kiện;<br/>Hiển thị Hộp thoại Vị trí tuyệt đối khi chọn linh kiện;<br/>Hiển thị Hộp thoại vị trí khi dán linh kiện
+Show Relative Offset Dialog When Selecting Object(s) = Hiển thị Vị trí tương đối khi lựa chọn linh kiện
+Open the FAQ Page = Mở trang Hỏi đáp FAQ
+Move Object(s) by Reference Point = Di chuyển linh kiện theo điểm tham chiếu
+Choose Favorite Track Width While Routing = Chọn độ rộng đường mạch ưa thích khi vẽ mạch
+Copy Selected Object(s) and Paste Repeatedly = Chép linh kiện đã chọn và dán liên tục
+
+#My Projects Tree Menu
+New Project = Tạo Dự án mới
+New Schematic = Bản vẽ mới
+New PCB = Mạch in PCB mới
+New Spice Subckt = Mạch mô phỏng phụ mới
+Modify = Chỉnh sửa
+Delete = Xóa bỏ
+Add sub part = Thêm thiết bị phụ
+Clone = Nhân bản
+Version History = Lịch sử phiên bản 
+Refresh List = Làm mới danh sách
+Create New Project = Tạo dự án mới
+Delete = Xóa bỏ
+Attachment = Đính kèm
+Archive = Lưu trữ
+Transfer = Chuyển
+Manage Project = Quản lý dự án
+
+#Dialog Verify Package
+Footprints Verification = Xác minh mẫu linh kiện
+
+#Dialog Edit Polygon Pad points
+Edit Points = Sửa điểm nối
+Center point is outside the pad = Trọng tâm nằm ngoài phiến đế linh kiện
+Hole should be inside the pad = Lỗ phải ở trong phiến đế linh kiện
+Hole is draggable = Có thể kéo lỗ ra chỗ khác
+
+#My Part Tree Menu
+Clone = Nhân bản
+Reload parts = Tải lại danh sách linh kiện
+Layers = Lớp
+
+#Dialog Preferences
+Language = Ngôn ngữ
+Display Name = Hiển thị tên
+HotKey Sync = Đồng bộ phím nóng
+My Theme Sync = Đồng bộ kiểu thiết lập của tôi
+Document Recovery Setting = Cài đặt khôi phục tài liệu
+Enable auto backup = Kích hoạt sao lưu tự động
+Maximum backup level = Số lượng sao lưu tối đa
+Auto backup interval = Tần suất sao lưu tự động
+minutes = phút
+Save to Server = Lưu vào máy chủ
+Load from Server = Tải từ máy chủ
+
+
+#Dialog Schematic Library Wizard
+Symbol Wizard = Trình tạo ký hiệu linh kiện
+Style = Phong cách
+Picture = Hình ảnh
+Pin Names = Tên chân linh kiện
+Contributor = Người đóng góp
+contributor = Người đóng góp
+owner = người sở hữu
+
+#Dialog Annotate
+Annotate = Chú giải
+Scope = Phạm vi ứng dụng
+Active Schematic only = Chỉ bản vẽ hiện thời
+All Opened Schematics = Tất cả các bản vẽ đang mở
+Method = Phương pháp
+Re-annotate all = Chú giải lại tất cả
+Keep existing annotation = Giữ các chú giải hiện tại
+Direction = Hướng
+Rows = Hàng
+Cols = Cols
+Reset = Cài lại
+
+#Dialog Order
+Order... = Đặt hàng...
+PCB Qty. = Số lượng mạch in PCB.
+PCB Thickness = Độ dày mạch inPCB
+PCB Dimension = Kích thước mạch in PCB
+Automatic calculation = Tự động tính
+PCB Color = Màu mạch in PCB
+Green = Xanh lá
+White = Trắng
+Blue = Xanh da trời
+Red = Đỏ
+Yellow = Vàng
+Black = Đen
+Purple = Tím
+Copper = Đồng
+Gold = Vàng
+Silver = Bạc
+Surface Finish = Hoàn thiện bề mặt
+Hasl = Có Chì
+Hasl(Lead Free) = Không Chì
+ENIG = Chìm vàng
+
+#Dialog Hot Key config
+Restore All Default Shortcuts = Khôi phục lại tất cả các phím tắt mặc định
+Save Changes = Lưu thay đổi
+
+
+
+#Dialog Polyline Maybe Wire
+To connect electrical elements, please use Wire (W hotkey) and not Line (L hotkey). = Để nối các linh kiện, hãy dùng đường mạch (phím nóng W) thay vì dùng đường thẳng (phím L).
+
+Anonymous File = Tập tin nặc danh
+Anonymous File can not be cloned, but you can open it, then save it as a new file. = Không thể nhân bản tập tin nặc danh, nhưng bạn có thể mở nó, sau đó lưu thành tên tập tin mới.
+Free Documents = Tài liệu miễn phí
+You must close the file before delete it! = Hãy đóng tập tin trước khi xóa!
+Offline Project = Dự án không trực tuyến
+
+#Message box
+Confirmation = Xác nhận
+Alert = Cảnh báo
+Information = Thông tin
+information = Thông tin
+Prompt = Lời nhắc
+Error = Lỗi
+error = lỗi
+error! = lỗi!
+Warning = Cảnh báo
+Imported ok! = Nhập thành công
+Some changes have not been saved. = Một vài sửa đổi chưa được lưu.
+Your file hasn't been saved. Please save first! = Tài liệu của bạn chưa được lưu. Hãy lưu lại trước khi thực hiện tác vụ!
+Your file hasn't been saved. Are you sure you want to close it? = Tài liệu của bạn chưa được lưu. Bạn chắc chắn đóng nó?
+Error! Please try again later. = Đã xảy ra lỗi! Hãy thử lại sau.
+Are you sure you want to reload this page? = Bạn có chắc chắn muốn tải lại trang hiện tại không?
+Are you sure you want to leave this page? = Bạn có chắc chắn muốn thoát khỏi trang hiện tại không?
+Confirm Reload = Xác nhận tải lại
+Confirm Close = Xác nhận để đóng
+Reload this page = Tải lại trang này
+Leave this page = Rời khỏi trang
+Stay on this page = Ở lại trang này
+Don't reload = Không tải lại
+No connect flag only can be placed on Pin dot or the wire which is connected one Pin. = Cờ Không nối mạch chỉ có thể đặt vào chân linh kiện hoặc đường mạch nối vào một chân linh kiện.
+can not be placed on the wire which is placing No Connect Flag. = không thể đặt vào đường mạch có Cờ Không nối mạch.
+The footprint transfer to LCSC library class successfully = Chuyển thành công mẫu linh kiện sang bộ sưu tập LCSC.
+Device/Footprint goes into "SMT Device/Footprint Verified" list successfully = Thiết bị/ mẫu linh kiện đã được chuyển thành công vào "đanh sách Thiết bị SMT/ linh kiện đã xác minh"
+
+Load failure! = Tải lỗi!
+Load projects failed = Không thể tải dự án
+error info = thông tin lỗi
+error information = thông tin lỗi
+Guest can't create a new project. Please login! = Tài khoản Khách không được phép tạo dự án mới, vui lòng đăng nhập!
+Please create a project before you do this! = Tạo dự án mới trước khi thực hiện hành động này!
+Add Part success = Thêm linh kiện thành công
+Click the new part and then edit it! = Nhấn vào tạo linh kiện mới và chỉnh sửa nó
+Delete my work = Xóa sản phẩm của tôi
+Delete my work. (Only deletes it from this list but not from the server) = Xóa sản phẩm. (Chỉ xóa khỏi danh sách mà không xóa khỏi máy chủ)
+Do you confirm this? = Bạn xác nhận hành động này?
+Successfully deleted! = Xóa thành công
+Successfully Copied! = Sao chép thành công!
+Cloning success! = Nhân bản thành công!
+Your title is too short! = Tiêu đề quá ngắn
+Remove this part = Xoá linh kiện này
+Find and Jump to ... = Tìm và chuyển đến ...
+Please type the prefix, such as U1, R1, C1 = Nhập tiền tố của linh kiện, chẳng hạn như U1, R1, C1 ...
+Zoom as 1:1, you can print it and then create artwork for etching the PCB. = Thu phóng 1:1, bạn có thể in ra, và sau đó tự trang trí mạch in.
+Exporting your works! = Xuất sản phẩm của bạn
+Guests can't import a file. Please login! = Truy cập dạng tài khoản khách không thể nhập tập tin, vui lòng đăng nhập trước!
+Please create a project before you import a file! = Tạo dự án trước khi nhập tập tin!
+Import your LTspice file! = Nhập tập tin LTspice của bạn!
+Open LTspice file = Mở tập tin LtSpice
+Please make sure the selected LTspice file is a file saved in LTspice V and above. = Hãy chắc chắn tập tin mô phỏng LTspice được lưu ở dạng LTspice hoặc cao hơn.
+Saved successfully! = Lưu thành công
+Save failed! = Lưu thất bại!
+Can not place parts into this document. = Không thể đặt linh kiện trong tài liệu này.
+User Package = Kiểu đóng gói của người dùng
+System Package = Kiểu đóng gói hệ thống
+File error = Lỗi tập tin
+Please save your file first! = Hãy lưu tập tin của bạn trước!
+Email address is too short! = Địa chỉ e-mail quá ngắn!
+You have not selected a file to upload. = Bạn chưa chọn tập tin để tải lên.
+Update = Đã cập nhật
+Import.Import Changes = Nhập các thay đổi
+No changes, the PCB already matches the schematic! = Không có thay đổi nào, mạch in hiện tương thích hoàn toàn với bản vẽ!
+Only public files can be shared = Chỉ có thể chia sẻ các tập tin tin công khai
+Conversion to PCB has failed! = Chuyển đổi mạch in không thành công
+Your username is too short! = Tên người dùng quá ngắn
+Your password is too short, it must be more than 6 characters! = Mật khẩu quá ngắn và phải nhiều hơn 6 ký tự
+Conflicting shortcut = Phím tắt bị xung đột
+There is an empty PCB file. Please first run Convert Schematic to PCB... from the schematic = Đây là một mạch in trống. Hãy chuyển sang bản vẽ tương ứng và chạy "Chuyển thành mạch in ..."
+This file has been modified, are you sure you want to run this simulation before saving it first? = Tài liệu này bị sửa đổi, bạn muốn chạy mô phỏng trước khi lưu nó?
+Please enter the Maximum Timestep! = Hãy nhập bước định thời lớn nhất.
+Please enter the Stop Time! = Hãy nhập thời gian kết thúc
+All of these fields are needed. = Tất cả các trường đều cần thiết.
+Either your spice netlist is too big or the server is busy. Please try again later. = Danh mục mạch mô phỏng bạn quá lớn hoặc máy chủ quá bận! Hãy thử lại sau.
+Your spice netlist is too big! Try breaking your circuit into smaller simulatable blocks. = Danh mục mạch mô phỏng của bạn quá lớn! Hãy chia thành các mạch có thể mô phỏng nhỏ hơn.
+Too many users in simulation. Please try again later! = Quá nhiều người đang chạy mô phỏng. Xin thử lại sau!
+Due to limited server resources, please wait 10 seconds for the interval in every time simulation. = Do hạn chế tài nguyên máy chủ, hãy đợi 10 giây để thực hiện các tác vụ mô phỏng.
+Your circuit is too complex, we have not enough CPU resource to support this simulation, please reduce your circuit as small as you can. = Bản vẽ của bạn quá phức tạp, chúng tôi không có đủ tài nguyên Vi xử lý để hỗ trợ thực hiện mô phỏng này. Hãy giảm thiết kế mạch xuống mức nhỏ nhất có thể.
+Simulation is queuing, try again after 30s. = Đang sắp hàng chờ mô phòng, hãy quay lại sau 30 giây nữa.
+Timeout = Hết giờ
+Demo accounts don't support simulation, please login first = Không cho phép mô phỏng trong tài khoản dùng thử, vui lòng đăng nhập
+Please login first = Vui lòng đăng nhập trước
+The schematic is showing errors, please check the simulation report carefully! = Bản vẽ có một số sai sót, hãy kiểm tra báo cáo mô phỏng để xem chi tiết.
+Simulation too long, maybe your schematic is too complex. = Mô phỏng quá lâu, có lẽ mạch của bạn quá phức tạp.
+Non-simulated file = Tập tin không mô phỏng được
+This file can only be opened in standard mode. To open it, please switch to standard mode. = Tập tin này chỉ có thể mở ở chế độ chuẩn. Hãy chuyển sang chế độ chuẩn để mở nó.
+Load your preferences success! = Tải tùy chọn cá nhân của bạn thành công!
+Save your preferences success! = Lưu tùy chọn cá nhân của bạn thành công!
+Update subckt ok! = Cập nhật mạch phụ thành công.
+Clone your file = Nhân bản tập tin
+Please type a new file name = Vui lòng nhập tên tập tin mới
+Create file failure! = Không thể tạo tập tin
+Schematics and PCBs can't be imported under My Libs folder, please choose a different folder = Không thể nhập Bản vẽ và bo mạch PCB vào thư mục Thư viện của tôi, hãy chọn thư mục khác
+Libraries to be imported under My Libs folder = Các tập tin thư viện sắp được nhập vào Thư mục Thư viện của tôi
+Please choose only the libraries needed = Vui lòng chỉ chọn các tập tin thư viện cần thiết
+Maximum import is 200 libs at one time! = Chúng tôi không hỗ trợ nhập hơn 200 thư viện cùng một lúc
+You libraries will be found under the My Libs folder = Các tập tin thư viện của bạn sẽ xuất hiện trong thư mục Thư viện của tôi
+Add to Library = Thêm vào thư viện
+No items have been checked! = Chưa linh kiện nào được kiểm tra!
+Nothing was found, please create it for yourself = Không tìm thấy gì, hãy tự tạo
+Search result = Kết quả tìm kiếm
+At least 3 characters needed = Cần có ít nhất 3 chữ cái
+Add to my Favorite Parts = Thêm vào mục yêu thích
+Added it OK. Please find it in your Favorite Parts = Thêm thành công. Hãy xem trong mục linh kiện yêu thích
+Please select its parent node = Hãy chọn nút cha
+Libraries can not be exported as active project pdf. = Không thể xuất tập tin tin thư viện thành tập tin dự án PDF
+Error:No GND = Lỗi: Không có nối mát (GND)
+This circuit does not have GND. Please select GND from the circuit tool to add to the circuit. = Mạch điện này không nối mát (GND). Hãy nối mát trước từ công cụ nối mát.
+Current circuit doesn't has Voltage Resource or Current Resource symbol, please place it first at left side EElib or Spice Library. = Mạch hiện thời không có linh kiện cấp nguồn áp hoặc dòng. Hãy đạt linh kiện cấp nguồn trước vào từ thư viện EElib ở bên trái hoặc thư viện linh kiện mô phỏng.
+Probe can not connect with ground(GND)! = Không thể nối đất (GND) Điểm so kiểm!
+Spice symbols's attributes can't be empty. = Thuộc tính linh kiện mô phỏng không được để trống.
+Error:No Spice Symbol = Lỗi: Không có linh kiện mô phỏng
+Simulation limit = Giới hạn mô phỏng
+There is a multimeter in the circuit that needs to be simulated using the emulation command .tran or .op = Có máy đo đa năng trong mạch điện và cần mô phỏng chúng bằng lệnh .tran hoặc .op
+An oscilloscope exists in the circuit and needs to be simulated using the simulation command .tran = Có Máy hiện sóng trong mạch điện và cần mô phỏng bằng lệnh .tran
+There are components in this circuit that do not have a simulation model. Please use the base library component of the simulation mode for simulation. = Có linh kiện không có mẫu mô phỏng. Hãy dùng thư viện linh kiện cơ bản có chế độ mô phỏng để tiếp tục.
+Circuit does not have a probe = Mạch điện không có điểm so kiểm
+Make sure your pin numbers are even numbers = Đảm bảo số chân linh kiện là số chẵn
+Duplicate Components Prefix = Chú thích linh kiện bị trùng
+All components are hidden successfully! = Tất cả linh kiện đã bị ẩn thành công!
+All ratlines are hidden successfully! = Tất cả đường nối đã bị ẩn thành công!
+Hidden the ratline of net {netName} successfully! = Ẩn đường nối {netName} thành công!
+Duplicate Component Prefix = Tiền tố linh kiện bị trùng
+{0} exist = đã có {0}
+There are some invalid packages, are you sure? = Một số gói không hợp lệ, bạn xác nhận thao tác?
+Invalid Characters, library only allows [0-9a-zA-Z-_] = Ký tự không hợp lệ, thư viện chỉ cho phép nhập ký tự [0-9a-zA-Z-_]
+Annotation success = Đặt chú thích thành công
+If you accept this annotation operation, please save your files. If not, close your files without saving. = Nếu bạn chấp nhận chú thích này, hãy lưu tập tin của bạn. Nếu không, đóng tập tin và không lưu lại.
+This file can't be saved under libs project. Please choose other project or create a new project = Không thể lưu tài liệu trong thư viện dự án, hãy chọn dự án khác hoặc tạo một dự án mới
+Your file is unsaved. = Tài liệu của bạn chưa được lưu
+You can close the editor now. Have a good day! = Bây giờ bạn có thể đóng trình biên tập. Chúc bạn một ngày vui!
+Successfully logged out = Đăng xuất thành công
+You have at least one unsaved file open. Please save it or close it. = Bạn có ít nhất một tài liệu chưa được lưu, vui lòng lưu hoặc đóng nó
+Please select a reference point = Hãy chọn một điểm tham chiếu
+Please save your file before this operation = Vui lòng lưu tập tin trước khi tiếp tục
+Please open a PCB document = Xin vui lòng mở một bo mạch in
+Please save your file before '{0}'. = Vui lòng lưu tập tin của bạn trước khi thực hiện {0}
+Please try again after saving this file. = Lưu tập tin và thử lại
+This text can not be empty! = Đoạn chữ này không thể để trống!
+Export to Altium fail, please try again or contact us. = Không xuất sang Altium được, hãy thử lại hoặc liên hệ chúng tôi.
+Connecting to server = Kết nối với máy chủ
+Please login before asking for help = Vui lòng đăng nhập trước khi yêu cầu trợ giúp
+This file has been modified, please save it first! = Tài liệu này đã được sửa đổi, xin lưu lại trước khi chuyển sang hành động tiếp theo!
+Remove this param = Loại bỏ tham số này
+You cannot drag a part to the canvas, please click the part and move the cursor to the canvas and then right-click to place. = Bạn không thể kéo một linh kiện vào nền vẽ, hãy nhấn linh kiện và chuyển con trỏ đến nền vẽ và nhấn phải để đặt linh kiện vào.
+Undo/Redo temporary error = Hoàn tác / Làm lại lỗi tạm thời
+We are sorry but there is an unpredictable error in the undo/redo process. This problem will be fixed soon but in the meanwhile it is safe to continue working on your design. = Chúng tôi xin lỗi vì có lỗi không dự đoán xuất hiện khi hoàn tác/ làm lại. Vấn đề này sẽ sớm được sửa. Lúc này bạn vẫn có thể tiếp tục làm việc trong bản vẽ hiện tại mà không sợ bị mất số liệu.
+The schematic has duplicate prefixes of the components, please make them unique. You can check them using the Design Manager. = Bản vẽ này có một số linh kiện bị trùng lặp tiền tố. Hãy sửa để không bị trùng. Lúc này bạn vẫn có thể tiếp tục làm việc trong bản vẽ hiện tại mà không sợ bị mất số liệu.
+Found duplicated prefix components, can not Import Changes, please modify the duplicated prefix or delete related component. = Phát hiện linh kiện trùng tiền tốt, không thể nhập Các thay đổi, hãy sửa tiền tố linh kiện bị trùng hoặc xóa các linh kiện liên quan đi đã.
+Please click the below help button to find out how to fix this problem. = Vui lòng nhấn vào nút trợ giúp dưới đây để biết cách khắc phục lỗi này
+Please create a board outline! Click the help button to find out how to create a board outline. = Hãy tạo ra đường bao bo mạch trước! Nhấp nút Trợ giúp để biết cách làm.
+Can not fetch files from server, please check your network and try again = Không thể lấy tập tin từ máy chủ hoặc tài liệu. Kiểm tra kết nối mạng và thử lại
+Please open a schematic first! = Hãy mở một bản vẽ trước!
+Can not find the schematic of this PCB = Không thể tìm được bản vẽ của mạch in này
+invalid points! = các điểm không hợp lệ
+This file does not support this operation. = Tập tin này không hỗ trợ hành động này
+Net Name Conflict = Tên mạch bị xung đột
+Net name = Tên đường mạch
+{0} are in the same wire, please remove others and just keep one. = {0} đang ở trên cùng một đường mạch, xin vui lòng xóa những thứ khác và chỉ để lại một.
+This field can't be removed! = Không thể xóa trường này!
+Annular ring of the pad/via is too small = Vòng tròn quanh đế linh kiện/ lỗ Via quá nhỏ
+The size of the hole cannot exceed the size of the pad = Kích thước lỗ không được vượt quá kích thước phiến đế linh kiện
+Are you sure you want to create a multi-sheet designs? = Bạn muốn tạo Dự án nhiều bản vẽ?
+Are you sure you want to create a {0}multi-sheet designs{1}? = Bạn muốn tạo {0}Dự án nhiều bản vẽ{1}?
+Please build the copper area! Click the help button to find out how to build the copper area. = Hãy tạo vùng phủ đồng! Nhấn nút Trợ giúp để biêt cách làm.
+Suggest to set a package for this component first! = Nên chọn kiểu đóng gói linh kiện này trước!
+Please select an opened document first. = Hãy mở tài liệu trước đã.
+Some files failed to load. Please reload the page. = Một số tập tin không tải được. Hãy tải lại trang.
+
+#UI Intro
+Skip = Bỏ qua
+« Back = «Trước
+Next » = Tiếp theo »
+Done = Hoàn thành
+This is the user management menu. = Đây là menu quản lý của người dùng
+This is the toolbar. = Đây là thanh công cụ
+This is the navigation list. Under here you can find projects, files, parts and libraries. = Đây là điều hướng tài liệu, xem các dự án, tập tin, linh kiện và thư viện ở đây.
+Show or hide the toolbar to the top of the window here. = Ẩn/ hiện thanh công cụ lên trên cửa sổ hiện thời.
+Show, resize or hide the left sidebar to the left of the window here. = Ẩn/ hiện thay đổi kích thước thanh công cụ trái vào bên trái cửa sổ hiện thời.
+Show or hide the right sidebar to the right of the window here. = Ẩn/ hiện thanh công cụ phải vào bên phải cửa sổ hiện thời.
+
+#Standard libs
+Passive Components = Linh kiện thụ động
+Power Supply = Nguồn điện
+Diodes = Diode
+Regulator = Bộ điều chỉnh
+Transistor = Bóng bán dẫn
+Transformers = Biến áp
+Gates = Cổng Logic
+Vacuum Tubes = Ống chân không
+Switch = Công tắc
+Relay = Rơ le
+Capacitor(US) = Tụ (Mỹ)
+Capacitor(EU) = Tụ (Châu Âu)
+Capacitor(EU)2 = Tụ (Châu Âu)2
+Electrolytic Capacitor(US) = Tụ hóa (Mỹ)
+Electrolytic Capacitor(EU) = Tụ hóa (Châu Âu)
+Electrolytic Capacitor(US)2 = Tụ hóa (Mỹ) 2
+Electrolytic Capacitor(EU)2 = Tụ hóa (Châu Âu) 2
+Inductor(US) = Cuộn cảm (Mỹ)
+Inductor(EU) = Cuộn cảm (Châu Âu)
+Potentiometer_US = Biến trở Mỹ
+Potentiometer_EU/IEC = Biến trở Châu Âu
+Potentiometer_3D = Biến trở 3D
+Resistor(US) = Điện trở (Mỹ)
+Resistor(EU) = Điện trở (châu Âu)
+Resistor 45 Deg(US) = Điện trở nghiêng 45 độ (Mỹ)
+Resistor 45 Deg(EU) = Điện trở nghiêng 45 độ (châu Âu)
+Variable Capacitor(US) = Tụ biến thiên (Mỹ)
+Variable Capacitor(EU) = Tụ biến thiên (châu Âu)
+Variable Resistor(US) = Điện trở biến thiên (Mỹ)
+Variable Resistor(EU) = Điện trở biến thiên (châu Âu)
+Variable Inductor(US) = Cuộn cảm biến thiên (Mỹ)
+Variable Inductor(EU) = Cuộn cảm biến thiên (châu Âu)
+Varistor = Điện trở biến thiên
+Inductor2(US) = Điện cảm 2 (Mỹ)
+Inductor2(EU) = Điện cảm 2 (châu Âu)
+Battery = Pin/ Ắc quy
+Voltage Source = Điện áp nguồn
+Current Source = Dòng nguồn
+CCCS(Current Controlled Current Source) = CCCS (Nguồn kiểm soát dòng)
+CCCS2(Current Controlled Current Source) = CCCS (Nguồn kiểm soát dòng)
+VCCS(Voltage Controlled Current Source) = VCCS (Nguồn kiểm soát điện áp)
+VCVS(Voltage Controlled Voltage Source) = VCVS (Nguồn kiểm soát điện áp)
+CCVS(Current Controlled Voltage Source) = CCVS (Nguồn kiểm soát dòng)
+CCVS2(Current Controlled Voltage Source) = CCVS2 (Nguồn kiểm soát kiểm soát dòng)
+
+BV(Behavioral Voltage Sources) = BV (Nguồn điện áp hành vi)
+BI(Behavioral Voltage Sources) = BI (Nguồn điện áp hành vi)
+Epoly(Non-linear Voltage Source) = Epoly (nguồn điện áp phi tuyến)
+Gpoly(Non-linear Current Source) = Gpoly (nguồn phi tuyến)
+
+Diode = Diode
+LED = Đèn LED
+LED_3D = Đèn LED 3D
+Schottky Diode = Diode Schottky
+Varactor Diode = Diode Biến dung
+Zener = Diode Zener
+Unidirectional TVS Diode = Diode TVS vô hướng
+Bidirectional TVS Diode = Diode TVS song hướng
+Diac = Diode kích hoạt hai chiều
+Bridge = Cầu chỉnh lưu
+78XX = 78XX
+79XX = 79XX
+LM317 = LM317
+LM337 = LM337
+TL431 = TL431
+BJT(NPN) = Bóng bán dẫn (NPN)
+BJT(PNP) = Bóng bán dẫn (PNP)
+MOSFET(Nch) = MOSFET(Nch)
+MOSFET(Nch) Depletion Four-pins = MOSFET(Nch) hiếm 4 chân
+MOSFET(Nch) Enhancement = MOSFET(Nch) nâng cao
+MOSFET(Nch) Enhancement Four-pins = MOSFET(Nch) nâng cao 4 chân
+MOSFET(Pch) = MOSFET(Pch)
+MOSFET(Pch) Depletion Four-pins = MOSFET(Pch) hiếm 4 chân
+MOSFET(Pch) Enhancement = MOSFET(Pch) nâng cao
+MOSFET(Pch) Enhancement Four-pins = MOSFET(Pch) nâng cao 4 chân
+JFET(Nch) = JFET(Nch)
+JFET(Pch) = JFET(Pch)
+Darlington NPN = Bóng bán dẫn Darlington NPN
+Darlington PNP = Bóng bán dẫn Darlington PNP
+MESFET(Nch) = MESFET(Nch)
+MESFET(Pch) = MESFET(Pch
+
+IGBT = IGBT
+SCR = SCR
+Triac = Triac
+Transform(US) = Biến thế (US)
+Transform(EU) = Biến thế (EU)
+Transfrom(NEUTRAL-CTR TAP)(US) = Biến thế (NEUTRAL-CTR TAP)(US)
+Transfrom(NEUTRAL-CTR TAP)(EU) = Biến thế (NEUTRAL-CTR TAP)(EU)
+Mutual Inductors = Cuộn cảm tương hỗ
+Mutual Inductors2 = Cuộn cảm tương hỗ 2
+Or Gate = Cổng Or
+Xor Gate = Cổng Xor
+And Gate = Cổng And
+Nor Gate = Cổng Nor
+Nand Gate = Cổng Nand
+Not Gate = Cổng Not
+Xnor Gate = Cổng Xnor
+Tube Diode = Diode ống
+Tube Triode = Triode Ống 
+Tube Tetrode = Tetrode Ống 
+Tube Pentode = Pentode Ống 
+Voltage Controlled Switch = Công tắc kiểm soát điện áp
+Current Controlled Switch = Công tắc kiểm soát dòng
+SPST ON = Công tắc SPST Mở
+SPST OFF = Công tắc SPST Tắt
+Fuse = Cầu chì
+555 = Chip hẹn giờ 555
+555(Style2) = Chíp hẹn giờ 555 (Kiểu2)
+Speaker = Loa
+XTAL = XTAL
+5pin Operational Amplifier = Mạch khuếch đại 5 chân
+3pin Operational amplifier = Mạch khuếch đại 3 chân
+Transmission Line = Đường truyền
+Voltmeter = Vôn kế
+Ammeter = Ampe kế
+LAMP = Bóng đèn
+Opto Transistor = Phototransistor
+
+#Server Message
+Need login = Cần phải đăng nhập
+Bad password = Mật khẩu sai
+We can't find your username or your email, please check it! = Chúng tôi không tìm thấy tên người dùng hoặc email này, vui lòng kiểm tra lại!
+Make sure your uploaded file size is less than 3MB! = Chỉ tải lên tập tin có kích thước không quá 3MB!
+Bad file type = Định dạng tập tin không hợp lệ
+Empty file or bad file type, ensure your file is Eagle 6.0+ = tập tin trống hoặc không hợp lệ, hãy chắc chắn tập tin của bạn là phiên bản Eagle 6.0+ trở lên
+This operation not supported on demo account = Thao tác này không được hỗ trợ trên tài khoản dùng thử (demo)
+Can not share this file under a private project, please set the active project to public! = Không thể chia sẻ tài liệu thuộc một dự án riêng tư, hãy đặt dự án hiện thời thành công khai!
+Login Failed Too many attempts. If you forgot your password, please {0}reset your password{1} or send an email to support@easyeda.com = Cố gắng đăng nhập quá nhiều lần. Nếu bạn quên mật khẩu, hãy {0} Tạo lại mật khẩu{1} hay gửi thư đến support@easyeda.com
+
+#Dialog Common Buttons
+Common Buttons Setting = Nút bấm cài đặt thông dụng
+Menu Setting... = Thực đơn Cài đặt
+Show/Hide = Ẩn/ Hiện
+Move Up = Chuyển lên
+Move Down = Chuyển xuống
+Reset All = Đặt lại tất cả
+Zoom = Phóng to
+Place Pin = Đặt ghim
+
+#System Setting Dialog
+System = Hệ thống
+Zoom Mode = Chế độ Thu/phóng
+Scroll Key = Phím quay
+CTRL + Scroll = Giữ nút Ctrl và quay
+Canvas Coordinate System = Hệ tọa độ nền vẽ
+SVG Coordinate = Tọa độ SVG
+Cartesian Coordinate = Tọa độ Đề các
+Open Wizard Dialog for New Schematic = Mở trình tạo Bản vẽ mới
+Default Unit = Đơn vị mặc định
+Canvas Zoom Effect = Hiệu ứng thu phóng nền vẽ
+Quality Priority = Ưu tiên Chất lượng
+Speed Priority = Ưu tiên tốc độ
+Rotation Step = Bước quay
+Add Teardrop Automatically = Thêm hình Giọt nước tự động
+Assign Net for Free Track/Arc/Circle = Gán mạch với đường/ cung/ vòng tròn chưa sử dụng
+Open Wizard Dialog for New PCB = Mở trình tạo mạch in mới
+Rebuild Plane Automatically = Tạo lại bề mặt tự động
+The Track's Routing Follows Component's Rotation = Đường mạch đi theo hướng quay linh kiện
+Display Pad's Number and Net = Hiển thị số hiệu phiến đế linh kiện và Đường mạch
+Favorite Track width = Độ rộng đường mạch ưa thích
+Track Width Setting = Thiết lập độ rộng đường mạch
+
+
+#Dialog Access Control
+Permissions = Cho phép
+Operation = Hành động
+Access Control = Kiểm soát truy cập
+Project Access Control = Kiểm soát truy cập dự án
+Reject = Bị từ chối
+Add User = Thêm người dùng
+Bad email address = Địa chỉ email sai
+# error info from backend
+Can't find this email address in EasyEDA. Your partner must be an EasyEDA user. = KHông tìm thấy email này trong hệ thống EasyEDA. Đối tác của bạn phải là một người dùng EasyEDA.
+
+#Dialog waveForm
+Grid Background = Màu nền lưới
+Pane Background = Màu nền bề mặt
+WaveForm Config = Cấu hình Dạng sóng
+Export Waveform = Xuất sang Dạng sóng
+
+
+#attr-canvas-grid-style
+dot = dấu chấm
+line = đường kẻ
+
+#attr-canvas-frame-size
+Other = Khác
+A4 Portrait = A4 dọc
+A4 Landscape = A4 ngang
+A3 Portrait = A3 dọc
+A3 Landscape = A3 ngang
+A2 Portrait = A2 dọc
+A2 Landscape = A2 ngang
+A1 Portrait = A1 dọc
+A1 Landscape = A1 ngang
+Landscape = ngang
+Portrait = dọc
+
+#Stroke Style
+solid = nét liền
+dashed = nét đứt
+dotted = nét chấm chấm
+
+#Solid Region
+Solid Region = Vùng đồng nhất
+Type = Kiểu
+type = kiểu
+
+#Dialog Libs Management
+Report error = Báo lỗi
+Please give us some information to help us find the problem. = Chúng tôi một số thông tin để tìm ra vấn đề.
+Cannot place parts into this document: Schematic Symbols can only be placed into a Schematic; PCB Footprints can only be placed into a PCB. = 
+Không thể đặt linh kiện này vào tài liệu: Chỉ có thể đặt ký hiệu linh kiện vào bản vẽ; Chỉ đặt được Mẫu linh kiện vào Mạch in.
+Save it as a favorite part = Lưu thành linh kiện ưa thích
+Only logged-in users can save this component as a Favorite Part but guest (Anonymous) users can place this component into their design directly. Would you like to place this component now? = Chỉ những người dùng đã đăng nhập mới có thể lưu nó thành linh kiện yêu thích nhưng khách (nặc danh) có thể đặt linh kiện trực tiếp bản vẽ của họ. Bạn muốn đặt linh kện này ngay?
+
+#Others
+Find libs = Tìm thư viện
+My Projects = Dự án của tôi
+My Parts = Linh kiện của tôi
+My Modules = Mô đun của tôi
+Assembly LCSC Components = Lắp ráp linh kiện LCSC
+Modules = Mô đun
+SCH Module = Bản vẽ Mô đun
+PCB Module = Mạch in Mô đun
+System IC = Thư viện chíp hệ thống
+LCSC (Official) = Trung tâm mua sắm Li Chong (LCSC - Chính thức)
+LCSC Electronics = Công ty điện tử LCSC
+Simple Mode = Chế độ đơn giản
+Expand Mode = Chế độ mở rộng
+Help Verify = Giúp xác minh
+Favorite Parts = Linh kiện ưa thích
+Shared With Me = Đã chia sẻ với tôi
+Preview = Xem trước
+Preview Window = Cửa sổ xem trước
+System Default = Mặc định hệ thống
+User Defined = Do Người dùng định nghĩa
+Theme = Họa tiết
+Theme Setting = Cài đặt họa tiết
+Close = Đóng
+Open = Mở
+Toggle toolbar = Ẩn/ Hiện thanh công cụ
+Toggle left bar = Ẩn/ Hiện thanh bên trái
+Toggle right bar = Ẩn/ Hiện thanh bên phải
+Reload = Tải lại
+Mouse-X = Con trỏ X
+Mouse-Y = Con trỏ Y
+Mouse-DX = Con trỏ DX
+Mouse-DY = Con trỏ DY
+Bus entry x1 = Đầu vào mạch chính x1
+Bus entry x2 = Đầu vào mạch chính x2
+Bus entry y1 = Đầu vào mạch chính y1
+Bus entry y2 = Đầu vào mạch chính y2
+Yes = Có
+No = Không
+OK = OK
+Confirm = Xác nhận
+Continue = Tiếp tục
+Cancel = Hủy
+Update = Cập nhật
+Bus entry = Đầu vào mạch chính
+Filter = Bộ lọc
+Check = Kiểm tra
+Copy the contents of this box into a text editor, then save the file. Paste the edited text back into this box and click Apply to update the display. = Sao chép nội dung của hộp văn bản này vào trình soạn thảo văn bản và lưu nó. Bạn có thể dán nội dung văn bản đã sửa vào hộp này và nhấn Áp dụng để cập nhập hiển thị.
+Copy the contents of this box into a text editor, then save the file with a .svg extension. You can edit it in Inkscape or open it in your browser. = Sao chép nội dung của hộp văn bản vào trình soạn thảo văn bản và lưu nó bằng đuôi .svg. Bạn có thể chỉnh sửa nó bằng phần mềm Inkscape hoặc mở bằng trình duyệt.
+Content is too big to show, you can download it directly. = Nội dung này quá dài để hiển thị. Bạn có thể tải về để xem trực tiếp.
+SVG format = Định dạng SVG
+SVG File = tập tin SVG
+Description should be no more than 250 letters = Mô tả không thể vượt quá 250 ký tự
+The file save operation has timed out. Try again and check your Internet connection. = Tác vụ lưu tập tin hết thời gian. Kiểm tra kết nối Internet và thử lại.
+Export Netlist = Xuất danh sách đường mạch
+Notifications = Thông báo
+Please select txt or json files. = Vui lòng chọn tập tin txt hoặc json.
+Failed to read file [{file}] = Không đọc được tập tin [{file}]
+[{file}] is not a valid json file = [{file}] không phải là tập tin JSON hợp lệ
+Invalid parameters! = Tham số không hợp lệ
+Download = Tải về
+Start = Bắt đầu
+You have unsaved files, are you sure you want to log out without saving the files? = Có những tập tin tin chưa được lưu, bạn muốn bỏ qua và đăng xuất?
+Please use the web version to run this function. = Vui lòng sử dụng chức năng này trong phiên bản web
+Please save this file to you project! = Xin lưu tài liệu này vào dự án của bạn!
+Nothing changed = Không có gì thay đổi
+Delete Node = Xóa điểm mạch
+This layer is invisible. = Lớp này không hiển thị
+When the solid region is Board Cutout, please set the layer to Multi-Layer. = Khi Vùng đồng nhất là khu vực cắt bỏ, hãy thiết lập thuộc tính Lớp thành Đa lớp .
+You should not try to assign a net to a Board Cutout solid region. = Bạn không nên cố gắng gắn một đường mạch với vùng cắt mạch.
+Net Length = Chiều dài đường mạch
+You can place a Pin in the schematic, but don't forget to group all of the Pins to a schematic component. Please click the help button to find out how to group them. If you just want to mark the wire, please use NetPort or NetLabel. = Bạn có thể đặt Chân linh kiện vào bản vẽ nhưng đừng quên nhóm chúng vào với linh kiện trên bản vẽ. Hãy nhấn nút trợ giúp để biết cách nhóm chúng lại. Nếu bạn chỉ muốn đánh dấu đường mạch, hãy dùng Cổng mạch (NetPort) hoặc Nhãn mạch (NetLabel).
+Please input the modification = Hẫy nhập vào nội dung sửa đổi
+The content must be between {0} and {1} characters = Chiều dài Nội dung phải trong khoảng {0} đến {1} ký tự
+
+Coming soon = Sắp ra mắt
+No tool = Không có công cụ
+Help us translate into your language = Giúp chúng tôi dịch sang ngôn ngữ của bạn
+Pad = Phiến đế linh kiện
+Via/Hole = Lỗ Via/Lỗ
+PCB Layers = Lớp Mạch in
+Order PCB = Đặt hàng Mạch in
+Share = Chia sẻ
+Free = Miễn phí
+Small = Nhỏ
+Medium = Trung bình
+Big = Lớn
+
+
+Embed = Nhúng
+HTML = Dạng HTML
+URL = Liên kêt web URL
+BBCode = Mã BBCode
+PNG = Dạng ảnh PNG
+Exporting as = Xuất sang dạng
+Exporting as image = Xuất sang dạng ảnh
+Exporting as {0}SVG{1} file. = Xuất sang dạng tập tin {0}SVG{1}
+Exporting as pdf is recommended: pdf gives good quality printed output and a small file size. = Nên xuất sang dạng PDF để có chất lượng in cao, kích thước tập tin nhỏ.
+Generate PCB Fabrication File(Gerber) = Tạo tập tin Gerber
+PenWidth-Increase = Tăng chiều rộng bút tô
+
+#Generate Gerber
+Generate Gerber = Tạo tập tin Gerber
+Gerber View = Xem tập tin Gerber
+Dimensions(Estimated) = Kích thước (ước tính)
+PCB Qty = Số lượng Mạch in
+Copper Weight = Độ dày lớp đồng
+PCB Price = Giá mạch in
+Estimated Delivery Time = Thời gian giao dự kiến
+HASL(with lead) = Có Chì
+LeadFree HASL-RoHS = không chì
+ENIG-RoHS = Mạ vàng
+Would you like to do Design Rule Checking (DRC) before generating the Gerber files? = Bạn có muốn kiểm tra Quy tắc thiết kế (DRC) trước khi tạo tập tin Gerber?
+Yes, Check DRC = Có hãy kiểm tra DRC
+No, Generate Gerber = Không, hãy tạo tập tin Gerber
+This PCB has uncompleted connection(s), do you want to check the connection(s)? = Mạch in này có kết nối chưa hoàn thiện, bạn muốn kiểm tra kết nối không?
+Yes, Check Connection(s) = Có kiểm tra đi
+It will then redirect to the web site of a thirdparty JLCPCB with which we cooperate. Are you ready? = Chương trình sẽ đưa bạn đến trang web của JLCPCB - đối tác hợp tác của chúng tôi. Bạn sẵn sàng chưa?
+Failed to submit your order, please contact us via support@easyeda.com for help. = Lệnh đặt hàng thất bại, vui lòng liên hệ với support@easyeda.com để được trợ giúp.
+Failed to submit your order, please contact us via QQ 800821856. = Không gửi đặt hàng được, vui lòng liên hệ với chúng tôi qua QQ 800821856.
+Order data generated finish, please click OK button and continue. = Hoàn tất việc tạo tập tin Gerber, Nhấn OK để tiếp tục
+[generateGerber]
+Layers = Lớp
+[/generateGerber]
+
+[version]
+Switch = Chuyển đổi
+[/version]
+
+
+Export your file, then print it yourself. = Xuất tập tin và tự in
+Trace width is too small = Độ rộng đường mạch quá nhỏ
+Share = Chia sẻ
+
+Images Attribute = Thuộc tính hình ảnh
+Connect Pad to Pad = Nối phiến đế linh kiện với nhau
+Copper Area = Vùng phủ Đồng
+Dimension = Kích thước
+
+
+Please check that you have used Wire and not Line to connect electrical elements. = Cần chắc chắn là bạn dùng ký hiệu Đường mạch chứ không phải Đường thẳng để nối các linh kiện điện tử.
+PCB Fabrication Prices & capabilities = Giá chế tạo mạch in PCB & năng lực sản xuất
+Flip all texts on bottom layer = Lật tất cả chữ ở lớp dưới cùng
+Create New Document = Tài liệu mới
+General Package = Kiểu đóng gói thông dụng
+General Packages = Kiểu đóng gói thông dụng
+favorite Package = kiểu đóng gói ưa thích
+Board Cutout = Mạch cắt đi
+Surface Mount = Dán 
+JLCPCB Part Class = Lớp linh kiện JLCPCB
+base = nền
+expand = mở rộng
+recommend = gợi ý
+Basic Part = Linh kiện cơ bản
+Extended Part = Linh kiện mở rộng
+Recommended Part = Linh kiện đề xuất
+smtWeld = Hàn dán
+thtWeld = Hàn xuyên lỗ
+manualWeld = Hàn tay
+furnaceWeld = Hàn nung trong lò
+Multi-Layer = Nhiều lớp
+Markdown Syntax = Cú pháp Đánh dấu (Markdown)
+Markdown supported = Hỗ trợ Đánh dấu (Markdown)
+Read only = Chỉ đọc
+Read/Write = Đọc/Ghi
+More Libraries... = Thư viện khác ...
+Decompress failed! = Giải nén không thành công!
+Load failed! = Không thể tải
+Loading = Đang tải
+No Result = Không có kết quả
+
+#Dialog Place Pin in schematic warning
+Place Pin in schematic warning = Đặt chân linh kiện vào trình cảnh báo bản vẽ mạch
+You can place a Pin in schematic, but don't forget to group all of the Pins to a schematic component, please click the help button to find out how to group them. If you just want to mark the wire, please use NetPort or NetNabel. = Bạn có thể đặt Chân linh kiện vào bản vẽ nhưng đừng quên nhóm chúng vào với linh kiện trên bản vẽ. Hãy nhấn nút trợ giúp để biết cách nhóm chúng lại. Nếu bạn chỉ muốn đánh dấu đường mạch, hãy dùng Cổng mạch (NetPort) hoặc Nhãn mạch (NetLabel).
+I know. Do not show this again. = Tôi biết, không nhắc lại nữa.
+
+#Extensions Setting
+Extensions Setting = Cấu hình phần mở rộng
+Remove = Loại bỏ
+Disable = Tắ
+Enable = Bật
+(Disabled) = (Tắt)
+(Enabled) = (Bật)
+Load Extension = Tải phần mở rộng
+Enable or disable will be applied after reload page = Bật hoặc tắt sẽ có hiệu lực sau khi trang được làm mới
+Your browser cannot run this function. = Trình duyệt của bạn không thể chạy tính năng này.
+Your browser mode does not support indexedDB. Some features may not work properly. Are you using Private Browsing Mode? = Trình duyệt của bạn không hõ trợ chỉ mục indexedDB. Một số tính năng sẽ không hoạt động. Bạn muốn chuyển sang chế độ duyệt riêng tư?
+Extension Files = Tập tin mở rộng
+Extension ID = Mã mở rộng
+Select Files = Chọn tập tin
+
+#Scripts
+Script = tập lệnh
+Scripts = tập lệnh
+Script Content = Nội dung tập lệnh
+Load from js file = Nạp từ tập tin JS
+UTF-8 encoded js file = tập tin JS mã hoá UTF-8
+Description = Mô tả
+description = Mô tả
+Not a *.js file = Không phải tập tin * .js
+Failed to read file = Không thể tải tập tin
+System scripts cannot be modified = Không thể sửa đổi tập lệnh hệ thống
+Create Subfolder = Tạo thư mục con
+Create Script = Tạo một tập lệnh
+Install Script = Cài đặt tập lệnh
+Install = Cài đặt
+Are you sure you want to remove this script? = Bạn muốn xoá tập lệnh?
+Folder Name = Tên thư mục
+Rename = Đổi tên
+Please select a script = Vui lòng chọn một tập lệnh
+Failed to load script = Không thể tải tập lệnh
+Run Script = Chạy tập lệnh
+Load Script = Tải tập lệnh
+Title is required = Phải có Tiêu đề
+Script content is required = Phải có nội dung tập lệnh
+System Scripts = Tập lệnh hệ thống
+User Scripts = Tập lệnh người dùng
+You can right click on the tree nodes. = Bạn có thể kích chuột phải và nút trên cây thư mục.
+
+#PCB photoView toolbar
+Top Side = Mặt trên
+Bottom Side = Mặt dưới
+With Silk Layer = Cùng lớp nền linh kiện
+No Silk Layer = Không có lớp nền linh kiện
+Photo View = Xem dạng ảnh
+
+#check update
+Check Update = Kiểm tra bản cập nhật
+EasyEDA Editor {ver} is released. Would you like to switch to the new version now? = Trình biên tập EasyEDA V {ver} đã được phát hành. Bạn muốn chuyển sang phiên bản mới bây giờ không?
+LCEDA Editor {ver} is released. Would you like to switch to the new version now? = Trình biên tập LCEDA {ver} đã được phát hành. Bạn muốn chuyển sang phiên bản mới bây giờ không?
+Switch to New Version = Chuyển sang phiên bản mới
+Next Time = Lần sau
+
+#download project dialog
+Generating download link... = Tạo liên kết tải xuống
+Download project now = Tải dự án về bây giờ
+
+#Import DXF
+Import DXF = Nhập DXF
+Apply Unit = Áp dụng đơn vị
+Convert circle to HOLE on BoardOutLine layer = Chuyển vòng tròn thành lỗ trên mạch in
+No shapes found = Không có nội dung
+Fail to load the file = Không thể tải tập tin
+Please select a DXF file. = Vui lòng chọn tập tin DXF
+This feature only works for PCB document. = Chức năng này chỉ sử dụng cho các bản vẽ mạch in
+Select a DXF file = Chọn tập tin DXF
+
+#Export DXF
+Export DXF = Xuất ra DXF
+Plated-Through-Hole Pads = Mạ phủ phiến đế linh kiện xuyên lỗ
+Non-Plated-Through-Hole Pads = Không mạ phủ phiến đế linh kiện xuyên lỗ
+Silkscreen = Hình nền linh kiện
+Surface Pad = Bề mặt phiến đế linh kiện
+
+#Data Sync
+Data Sync = Đồng bộ dữ liệu
+Data Conflicts = Xung đột dữ liệu
+Project or Document = Dự án hoặc tài liệu
+Cloud-Side = Trên mạng
+Local-Side = Tại chỗ
+Decision = Quyết định
+Modified = Sửa đổi
+Deleted = Bị xóa
+As Cloud = Trên mạng
+As Local = Tại chỗ
+Skip = Bỏ qua
+Data sync completed = Đồng bộ hóa dữ liệu đã hoàn tất
+
+#Team
+Team = Nhóm
+Teams = Nhóm
+Switching team = Đổi nhóm
+Switch team failed = Đổi Nhóm không thành công
+Load team info fail! = Không đọc được thông tin về nhóm
+Load team info fail! Please reload. = Không tải được thông tin về nhóm, vui lòng tải lại
+My Teams = Nhóm của tôi
+Create Team = Tạo Nhóm mới
+
+#Dialog Footprint Manager
+Footprint Manager = Quản lý Mẫu linh kiện
+Open Footprint Manager = Mở trình quản lý Mẫu
+Schematic Components = Bản vẽ linh kiện
+Edit Pin Map Information = Chỉnh sửa Thông tin sơ đồ Chân
+Package Categories = Nhóm đóng gói
+Components List = Danh sách linh kiện
+Personal = Cá nhân
+Component PIN information = Thông tin về Chân linh kiện
+Footprint PAD information = Thông tin phiến đế mẫu
+Footprint Categories = Nhóm
+Pad Number = Số hiệu phiến đế linh kiện
+Search Footprint = Tìm Mẫu linh kiện
+Filter by keyword = Lọc theo từ khoá 
+System Libs = Thư viện hệ thống
+
+#dialog global delete
+Drawings = Bản vẽ
+Netlabel and netFlag = Nhãn mạch và ký hiệu mạch
+Texts = Chữ
+Wires = Đường nối mạch
+Board outlines = Đường bao bo mạch
+Footprints = Mẫu
+Footprint = Mẫu
+Tracks = Đường mạch
+
+#dialog board outline settings
+Current Size = Kích thước hiện tại
+Paramenters = Tham số
+Start X: = Điểm đầu X:
+Start Y: = Điểm đầu Y:
+Round Rectangular = Hình chữ nhật bo góc
+radius = bo góc
+only number is allowed! = chỉ được nhập số!
+please input valid value of width! = hãy nhập đúng giá trị chiều rộng!
+please input valid value of height! = hãy nhập đúng giá trị độ cao!
+please input valid value of radius! = hãy nhập đúng giá trị góc bo!
+
+#cross probe
+The object you selected was not found in other documents. = Linh kiện bạn chọn không có trong các tài liệu kia.
+No valid object for cross probe selected. = Không có linh kiện hợp lệ để thực hiện so chéo.
+Can not probe. Refreshing the window may get it to work. = So chéo không thành công. Tải lại cửa sổ sẽ có thể giúp việc này thực hiện được.
+You need to login for this function to work. = Đăng nhập để sử dụng tính năng này.
+
+#About Dialog
+An Easier EDA Experience = Trải nghiệm thiết kế mạch điện dễ dàng hơn
+Version = Phiên bản
+BuiltDate = Ngày tạo
+
+#Auto Router Dialog
+Auto Router Config = Cài đặt đi mạch tự động
+General Options = Thiết lập chung
+All Layers = Tất cả các lớp
+Configure = Cấu hình
+Sorry, your web browser does not support this feature. Please run a modern browser. = Trình duyệt hiện tại không hỗ trợ chức năng này, vui lòng sử dụng trình duyệt mới hơn.
+Please make sure all objects with net are inside the board outline! = Cần đảm bảo tất cả các linh kiện được đặt phía trong đường bao bo mạch!
+Cannot start again before previous activity is stopped = Không thể thực hiện được, hành động trước chưa kết thúc
+Please select a net = Vui lòng chọn mạch
+TrackWidth cannot be empty = Không được để trống độ rộng đường mạch
+Clearance cannot be empty = Không được để trống khoảng hở
+Router is time out. = Không liên lạc được công cụ đi mạch.
+Server is busy, please try again later. = Máy chủ bận, vui lòng thử lại sau
+Due to the limitation of {0}router server{1} resources, multiple routers executing concurrently are not supported, please try again later or do it manually :-) = Do hạn chế tài nguyên {0}máy chủ đi mạch tự động{1}, việc thực hiện nhiều lệnh đi dây cùng lúc không thể thực hiện được, vui lòng thử lại sau :-)
+Track Width is invalid = Độ rộng đường mạch không hợp lệ
+General Clearance is invalid = Khoảng hở chung không hợp lệ
+SMD Clearance is invalid = Khoảng hở SMT không hợp lệ
+Diameter is invalid = Đường kính không hợp lệ
+Drill Diameter is invalid = Đường kính khoan không hợp lệ
+Track width cannot be less than Design Rule Checking (DRC) setting value. = Độ rộng đường mạch không được nhỏ hơn giá trị quy định trong Quy tắc thiết kế DRC.
+General Clearance cannot be less than Design Rule Checking (DRC) setting value. = Khoảng hở chung không được nhỏ hơn giá trị quy định trong Quy tắc thiết kế DRC.
+SMD Clearance cannot be less than Design Rule Checking (DRC) setting value. = Khoảng hở SMD không được nhỏ hơn giá trị quy định trong Quy tắc thiết kế DRC.
+Hole size cannot be less than Design Rule Checking (DRC) setting value. = Kích thước lỗ không được nhỏ hơn giá trị quy định trong Quy tắc thiết kế DRC.
+Design Rule's via diameter must larger than via drill diameter = Đường kính lỗ Via theo Quy tắc thiết kế DRC phải lớn hơn đường kính lỗ khoan.
+Clearance cannot be less than Design Rule Checking (DRC) setting value. = Khoảng hở không được nhỏ hơn giá trị quy định trong Quy tắc thiết kế DRC.
+Not a valid PCB, please check it again = Mạch in PCB không hợp lệ, vui lòng kiểm tra lại
+Previous connection must be closed = Bạn phải đóng kết nối trước
+Network error. Please try again. = Lỗi mạng, vui lòng thử lại sau.
+Router error. = Lỗi đi mạch
+Invalid PCB. = Mạch in không hợp lệ.
+General Clearance = Khoảng hở chung
+SMD Clearance = Khoảng hở SMD
+#Ripup Nets
+Skip Routed Nets = Bỏ qua các đường mạch đã đi
+Remove Existing Tracks = Xoá đường mạch hiện tại
+Real-time Display = Hiển thị thời gian thực
+Router Layers = Lớp đường mạch
+Via = Lỗ Via
+Special = Đặc biệt
+Special Nets = Đường mạch đặc biệt
+Skip Nets = Bỏ qua đường mạch
+Router Server = Máy chủ cáp
+Local = Tại chỗ
+Cloud = Đám mây (Cloud)
+Available = Có sẵn
+Unavailable = Không có sẵn
+Checking = Kiểm tra
+Install Local Auto Router = Cài đặt phần mềm đi mạch tự động
+Checking local auto router server... = Kiểm tra phần mềm đi mạch tự động tại máy tính tại chỗ
+Stop Router = Dừng đi mạch
+Auto Router is running... = Đi mạch tự động
+
+#Left Siderbar
+EELib = Thư viện EELib
+Basic = Cơ bản
+Extend = Mở rộng
+Design Manager = Trình Quản lý Thiết kế
+Library = Thư viện
+Spice Library = Thư viện mô phỏng
+Shared = Đã chia sẻ
+LCSC = LCSC
+LCSC Parts = Linh kiện LCSC
+Supply Flag = Mã cung cấp
+US = Mỹ
+EU/IEC = Châu Âu/IEC
+US Style = Kiểu Mỹ
+Resistor = Điện trở
+Capacitor = Tụ điện
+Inductor = Cuộn cảm
+Switch/Key = Công tắc/ Nút nhấn
+EU/IEC Style = Kiểu Châu Âu
+CN = CN
+Connector = Đầu nối
+Switch/Relay = Chuyển mạch / chuyển tiếp
+JLCPCB = JLCPCB
+Recycle Bin = Thùng rác
+
+# Protractor
+Font Height = Chiều cao chữ
+Precision = Độ chính xác
+Protractor = Đo góc
+
+#attr-pcbtext-line-width
+Only default font family supports to change font width. =
+Font is missing! You can confirm the dialog and use default font instead or cancel the dialog then upload your font and do it again. = Phông bị mất! Bạn có thể nhấp OK để sử dụng phông chữ mặc định hoặc Hủy, sau đó tải lên phông chữ.
+
+#Common
+Owner = Chủ sở hữu
+License = Giấy phép
+Part Pins = Chân linh kiện
+Net Pins = Chân mạch
+Net Ratlines = Đường nối mạch
+Add Parameter = Thêm thông số
+Histories record = Lịch sử
+Create Team = Tạo nhóm làm việc
+Can't find this footprint on the server, please re-associate it. = Không tìm thấy mẫu linh kiện này trên máy chủ, hãy liên kết lại với mẫu linh kiện phù hợp.
+The footprint name associated with the component and the footprint name on the server are inconsistent, please re-associate it. = Tên mẫu linh kiện kèm theo linh kiện và mẫu linh kiện trên máy chủ không khớp, hãy liên kết lại.
+The symbol pin number(s) of the component does not match the associated footprint pad number(s), please modify the symbol pin number(s) or re-associate the footprint = Số hiệu chân của linh kiện không khớp với phiến đế mẫu linh kiện, hãy sửa lại số chân hoặc gán lại mẫu linh kiện.
+No footprint, please associate the footprint first. = Không có mẫu linh kiện, hãy gán mẫu linh kiện trước.
+Can't find the package = Không tìm thấy loại linh kiện này
+The path is for the project URL identify, it is unique (the identity of the project owned by the user cannot be the same) = Đường dẫn này là thông tin xác định địa chỉ URL của dự án, nó là thông tin duy nhất (số hiệu dự án của mỗi người không thể giống nhau)
+It's with a letter or a number and can contain only numbers, letters, line-through, underscores, and points. It cannot be modified after saving. = Nó bao gồm chữ cái hoặc số, và có thể chỉ chứa số, chữ cái, gạch giữa, gạch dưới và điểm. Sau khi lưu thì không thể sửa được nữa.
+Updating document to new format, please wait......After finishing please save your document with Ctrl + S. = Đang cập nhật tài liệu sang định dạng mới, vui lòng chờ ... Sau khi cập nhật hoàn tất, nhấn Ctrl + S để lưu.
+Open at current project? = Mở trong dự án hiện tại?
+Please select a history to recover. = Vui lòng chọn một nội dung lịch sử để khôi phục.
+Be careful! When you click the "Recover" button, this sheet will be overwritten! = Xin lưu ý! Nếu bạn nhấp vào nút "Khôi phục", bản vẽ hiện tại sẽ bị ghi đè!
+Recover = Khôi phục
+There is no PCB under this project, would you like to create one? = Không có mạch in PCB nào trong dự án này, Bạn có muốn tạo mạch in mới?
+Please make sure that the chose Altium Designer files are saved as ASCII files. = Cần đảm bảo rằng tập tin tin thiết kế Altium Designer được lưu dưới dạng tập tin ASCII.
+Export to Altium function is currently in beta: = Chức năng xuất sang Altium hiện mới đang ở dạng thử nghiệm:
+1. Please be sure to read the notice before exporting: = 1. Hãy đọc thông báo trước khi xuất:
+Export Altium notice and disclaimer = Thông báo xuất tập tin Altium
+2. Please be sure to check again after export! = 2. Nhớ kiểm tra lại sau khi xuất!
+I have read and agree = Tôi đã đọc và đồng ý
+Export to Altium = Xuất sang Altium
+Please make sure that the chose Eagle files are saved in Eagle v6.0 and above. = Đảm bảo tập tin Eagle đã chọn là tập tin được lưu bằng phiên bản Eagle v6.0 trở lên.
+Please make sure that the Kicad files were compressed as the .zip file. = Cần đảm bảo nén các tập tin Kicad theo định dạng .zip.
+Open Altium Designer file = Mở tập tin thiết kế Altium
+The more information please refer at : = Xem thêm thông tin tại:
+Please use Gerber file instead of exporting Altium if you are going to do PCB manufacturing. All PCB factories support the Gerber file. Is it ok to Generate the Gerber file? = Dùng tập tin Gerber thay vì xuất sang Altium nếu bạn đang chuẩn bị đặt làm mạch in. Tất cả các nhà máy sản xuất mạch in đều có thể sử dụng tập tin Gerber. Tạo tập tin Gerber nhé?
+Yes, Generate Gerber = Vâng, tạo tập tin Gerber
+No, Export Altium = Không, xuất sang Altium cho tôi
+Open Eagle file = tập tin mở Eagle Mở tập tin Eagle
+Open Kicad file = Mở tập tin Kicad
+Select file(s) = Chọn tập tin
+Append to current project? = Chèn vào dự án hiện tại?
+Append = Chèn
+Open as new project = Mở ra như một dự án mới
+Tip: Press {0}SPACE{1} or {2}R{3} to rotate the placing object or selected object. = Mẹo: Nhấn phím phím {0}CÁCH{1} hoặc {2}R{3} để xoay linh kiện đang chọn.
+Hotkeys Setting = Cài đặt phím nóng
+I know. Don't show this again. = Tôi biết, không hiển thị gợi ý này nữa.
+Manufacturer Part Number can not be less than 2 characters. = Số hiệu linh kiện nhà sản xuất không được ngắn hơn 2 ký tự.
+This prefix was changed to non-subpart format. = Tiền tố đã được đổi sang dạng không phải là linh kiện con
+Save as New Project = Lưu thành dự án mới
+Save to Existing Project = Lưu vào dự án hiện tại
+Sheet Setting = Thiết lập bản vẽ
+Sheet Size = Kích thước bản vẽ
+Pre = Số
+pre = Số
+Invalid Data = Định dạng dữ liệu sai
+Others = Khác
+You are not authorized to share this project. = Bạn không có quyền chia sẻ dự án này
+This project is private: if you continue sharing it will be made public. = Dự án là một dự án riêng te, nếu bạn tiếp tục việc chia sẻ, nó sẽ chuyển thành dự án mở và ai cũng vào xem được.
+Modify file info = Sửa đổi thông tin tập tin
+Please input search keyword = Vui lòng nhập từ khóa tìm kiếm
+Sort Projects by = Sắp xếp dự án theo
+Date Created = Thời gian tạo
+Date Modified = Thời gian sửa
+Title = Tiêu đề
+Ascending = Thứ tự tăng dần
+Descending = Thứ tự giảm dần
+Pin to Top = Đính lên đầu
+Unpin from Top = Bỏ đính
+Collapse / Expand = Thu gọn / Mở ra
+Expand = Mở ra
+Collapse = Thu gọn
+Expand All = Mở rộng tất cả
+Collapse All = Thu gọn tất cả
+Your file hasn't been saved, do you want to save it? = Tập tin của bạn chưa được lưu, bạn muốn lưu không?
+Don't Save = Không lưu
+Library Owner: = Chủ thư viện
+verifyPkg.Value = Kiểu đóng gói
+State = Trạng thái
+Please select! = Hãy chọn!
+Route = Chạy mạch
+Import successfully: = Nhập thành công
+Import failed: = Nhập không thành công
+The title length must be between 2~128 characters. = Chiều dài tiêu đề trong khoảng 2 ~ 128 ký tự.
+Path only contain 'a-z、A-Z、- 、 _ 、0-9'! = Đường dẫn chỉ được chứa ký tự 'a-z, A-Z, -, _, 0-9'!
+Path must begin as 'a-z、A-Z、0-9'! = Đường dẫn phải bắt đầu bằng 'a-z, A-Z, 0-9'!
+The path length must be between 4~128 characters! = Độ dài đường dẫn từ 4 ~ 128 ký tự!
+The title length must be between 2~256 characters! = Độ dài Tiêu đề từ 2 ~ 256 ký tự!
+The title can not less than 3 charaters! = Tiêu đề không được ngắn hơn 3 ký tự!
+Do you want to delete this file? = Bạn muốn xóa tập tin này?
+Add sub part success = Thêm linh kiện con
+Please input name and prefix! = Vui lòng nhập tên và tiền tố!
+Board outlines are not closed = Đường bao mạch in không kín
+Import Altium file fail, the file needs to be an ASCII file encoded in UTF-8. = Nhập tập tin Altium không thành công, tập tin phải ở dạng ASCII và mã hóa ở dạng UTF-8
+The Pins "{0}" are not snapped on the grid point! This part maybe will cause some errors in the schematic. = Chân "{0}" không tự dính vào mắt lưới vẽ. Linh kiện này có thể sẽ gây lỗi trong bản vẽ.
+Check Pin = Kiểm tra chân
+Failed to read {0} = Không đọc được {0}
+{0} is invalid = {0} không hợp lệ
+{0} not found = {0} không tồn tại
+Failed to execute script: = Không thể thực thi tập lệnh
+One or more js files not found = Không tìm thấy một tập tin js
+Only ONE {0} file is required = Chỉ cần MỘT tập tin {0}
+Extension ID is required = Mã phần mở rộng không được để trống
+Extension ID is invalid = Mã phần mở rộng không hợp lệ
+Extension ID is duplicated = Mã phần mở rộng đã tồn tại
+No Result! = Không có kết quả
+Load Error = Tải lỗi
+loading = đang nạp
+Failed to load spice data = Không thể tải dữ liệu mô phỏng
+Netlist = Danh sách đường mạch
+Tags = Đuôi
+Pin Information: = Thông tin chân:
+Format incorrect, please check for the extra spaces or commas! = Định dạng không đúng, hãy kiểm tra xem có thừa dấu phẩy hay dấu trắng nào không?
+Round Radius = Bán kính bo góc
+Keyword: = Từ khóa
+Image = Hình ảnh
+Image copied. = Hình ảnh đã được sao chép
+Copy failed. = Không sao chép được.
+Image Attribute = Thuộc tính ảnh
+Locked = Đã khóa
+Unlock All = Bỏ khóa tất cả
+Unlock = Bỏ khóa
+Lock = Khóa
+Please input pin name and pin number! = Hãy nhập tên và số thứ tự chân linh kiện!
+Left-Hand Panel = Bảng bên trái
+Right-Hand Panel = Bảng bên phải
+Update All = Cập nhập tất cả
+The pin number(s) can't find the same pad number(s) = Chân linh kiện không có số phiến đế tương ứng
+Designator = Định danh
+Replace = Thay thế
+Update failed = Cập nhập không thành công
+Successfully updated = Cập nhập thành công
+Update failed! = Cập nhập không thành công!
+Successfully updated! =Cập nhập thành công!
+Successfully updated {0} component(s)! = Cập nhập thành công {0} linh kiện!
+Change = Thay đổi
+Check Footprints = Kiểm tra Mẫu linh kiện
+Network Error! = Lỗi mạng!
+Find Similar Objects = Tìm Linh kiện tương tự
+Current Sheet = Bản vẽ hiện thời
+All Sheets = Tất cả các bản vẽ
+Kind = Loại
+Range = Dải lựa chọn
+Net Label/Net Flag/Net Port/Voltage Probe = Nhãn đường mạch/ Đuôi/ Điểm nối/ Điểm Kiểm tra
+Bezier/Freehand Draw = Vẽ Bezier/Tự do
+Arc/Pie = Cung/Bánh
+Objects Attributes = Thuộc tính linh kiện
+Any = Bất kỳ
+Same = Giống
+Different = Khác
+Circular = Phụ thuộc
+Expose Copper = Làm lộ đồng
+"{0}" font is missing. Please add the font to the font family list. = Phông "{0}" không tồn tại. CHọn thêm phông chữ vào danh sách phông.
+Place Component = Thêm linh kiện
+Delete Segment = Xóa đoạn mạch
+Angle = Góc
+Board Thickness = Độ dầy bo mạch
+Layer Distance = Khoảng cách cách lớp
+Silk Screen = Nền hình linh kiện
+Surface Finish Color = Màu hoàn thiện
+Colors = Màu sắc
+Board Color = Màu mạch in
+Board Side = Cạnh bản mạch
+Silk Screen = Hình linh kiện
+Silk Screen Color = Màu hình linh kiện
+Display = Hiển thị
+
+# Array and Clone
+Distribute Array = Phân đều mảng
+Array Type = Loại mảng
+Matrix Array = Ma trận mảng
+Circular Array = Mảng tròn
+Item Rotation = Xoay đối tượng
+Location = Vị trí
+Items per Column = Số đối tượng/ cột
+Items per Row = Số đối tượng/ dòng
+# Column Spacing
+# Row Spacing
+Spacing(Degrees) = Phân cách (Độ)
+Start Degree = Bắt đầu
+Rotate Item to Match = Xoay đổi tượng cho khớp
+Clockwise = Xuôi chiều chiều đồng hồ
+Anti-Clockwise = Ngược chiều đồng hồ
+Distribute by = Cách đều theo khoảng
+Column = Cột
+Row = Dòng
+Array Clone = Nhân bản mảng
+Number of Rows = Số Dòng
+Number of Columns = Số cột
+Number of Copies = Số bản sao
+Distribute Range(Degrees) = Dải phân đều (Độ)
+
+# Theme color dialog
+BusEntry = Điểm vào mạch chính
+Foreground = Màu mặt ngoài
+Common Used = Thường được dùng
+Original Theme = Họa tiết gốc
+Theme Setting = Cài đặt họa tiết
+Change the theme colors of your design = Thay đổi màu họa tiết thiết kế của bạn
+White on Black = Trắng trên nền đen 
+Black on White = Đen trên nền trắng
+Custom Theme = Họa tiết tùy biến
+Color Setting = Thiết lập màu
+Apply Setting = Áp dụng
+Theme Setting... = Thiết lập họa tiết
+Bus Entry = Đầu vào mạch chính
+Foreground = Màu mặt trước
+Symbol Graphics = Đồ họa ký hiệu linh kiện
+Common Used = Thường được dùng
+Draw = Vẽ
+Sheet = Bản vẽ
+The original theme only works for placing the new symbols. = Họa tiết gốc chỉ có tác dụng với Ký hiệu linh kiện mới.
+Selection Highlight = Làm nổi lựa chọn
+Net Label / Port = Nhãn đường mạch/ điểm mạch
+
+My Theme = Kiểu họa tiết của tôi
+My Theme Settings = Thiết lập họa tiết của tôi
+Apply 'Custom Theme' On = Áp dụng 'Họa tiết tùy biến' với
+Creating New Schematic = Tạo bản vẽ mới
+Opening Existed Schematic = Mở bản vẽ hiện có
+Please fill in all parameters! = Hãy điền tất cả các tham số
+Convert to Board Cutout = Chuyển thành phần cắt đi của mạch in
+Prefix Position = Vị trí tiền tố
+Name Position = Tên vị trí
+Center = Giữa
+Top = Trên
+Bottom = Dưới
+Left = Trái
+Right = Phải
+Does not support multiple objects to convert to Board Cutout at the same time = Không hỗ trợ chuyển cùng lúc nhiều linh kiện thành phần cắt đi của mạch
+Does not support multiple objects to convert to pad at the same time =Không hỗ trợ chuyển cùng lúc nhiều linh kiện thành phiến đế linh kiện
+Convert to Board Cutout = Chuyển thành phần mạch cắt đi
+Convert to Pad = Chuyển thành phiến đế linh kiện
+Convert to Component Shape = Chuyển thành hình linh kiẹn
+Combine to Continuous Track = Gộp các đường mạch liên tục
+Convert to Solid Region = Chuyển thành Vùng đồng nhất
+Substrate = Nền
+3D View = Cảnh 3D
+2D View = Cảnh 2D
+Pin Color = Màu chân
+Name Color = Màu Tên
+Number Color = Màu số thứ tự
+Dot = Điểm
+
+[theme]
+Sheet = bản vẽ
+[/theme]
+
+
+#history dialog
+[history-dlg]
+Number = Số thứ tự
+Editor = Trình Biên tập
+[/history-dlg]
+View File History = Xem Lịch sử tập tin
+Save Time = Lưu lại thời gian
+
+Invalid Format = Định dạng không hợp lệ
+
+#Dialog Teardrop
+Round Pad / Via = Phiến tròn/ Via
+Rectangle / Oval / Polygon Pad = Chữ nhật/ Ô van/ Phiến đế đa giác
+Applying Teardrops = Tạo Giọt nước
+Removing Teardrops = Loại bỏ Giọt nước
+Waiting = Đợi
+Progressing... = Đang xử lý ...
+
+No schematic in the project! = Không có bản vẽ nào trong dự án
+
+Move Forward = Tiến tới
+Move Backward = Lùi lại
+
+#Dialog Panelize
+V-CUT = Cắt rãnh chữ V
+Stamp Hole = Hàng đục lỗ
+No Panelize = Không tạo loạt mạch
+Border and Marking = Đường biên và đánh dấu
+Create Border = Tạo đường biên
+Border Height = Chiều cao đường biên
+Border Position = Vị trí đường biên
+Create Positioning Holes = Tạo Lỗ định vị
+Create Fiducial Marks = Tạo Dấu tham chiếu
+Top and Bottom = Trên và dưới
+Left and Right = Trái và phải
+Stamp Hole Group - Column = Nhóm đục lỗ - theo cột
+Stamp Hole Group - Row = Nhóm đục lỗ - theo hàng
+The number of rows and columns cannot be set to 1 simultaneously = Không được đặt số dòng và cột cùng là 1
+
+#edit path point
+[editPathPoints-dlg]
+Arc(R) = Cung (R)
+Type = Kiểu
+Action = Hành động
+add before = thêm vào trước
+add after = thêm vào sau
+delete = xóa
+[/editPathPoints-dlg]
+
+#edit polygon point
+[editPolygonPoints-dlg]
+Action = Hành động
+add before =thêm vào trước
+add after =thêm vào sau
+delete =xóa
+[/editPolygonPoints-dlg]
+You have unconfirmed edit! = Bạn chưa xác nhận việc sửa đổi!
+Invalid edit! = Sửa đổi không hợp lệ!
+
+#Dialog PCB Information
+PCB Information... = Thông tin mạch in...
+Signal Layers = Lớp tín hiệu
+None Signal Layers = Không có lớp tín hiệu
+Pads = Phiến đế linh kiện
+Surface Pads = Mặt phiến
+Plated Through-hole Pads = Phiến xuyên lỗ có lớp mạ
+None Plated Through-hole Pads = Phiến xuyên lỗ không có lớp mạ
+Holes = Lỗ
+Vias = Via
+Length of Tracks = Độ dài đường mạch
+Copper Areas = Vùn phủ đồng
+
+#Differential Pair Routing
+Differential Pair Routing = Đi mạch đôi
+Differential Pair Rule Setting = Thiết lập đi mạch đôi
+Please input track width = Nhập độ rộng đường mạch
+Please input clearance = Nhập khoảng hở
+Routing Rules = Quy tắc đi mạch
+
+#Route Length Tuning
+Track Length Tuning... = Tinh chỉnh chiều dài đường mạch...
+Tracks with different net or non-track found in current targets. = Đường mạch thuộc mạch khác nhau hoặc không có đường mạch nào trong vùng chọn.
+Please select the signal tracks to be tuning. = Chọn đường mạch tín hiệu để tinh chỉnh
+The total length exceeds the Design Rule Checking (DRC) constraint, continue ? = Tổng chiều dài vượt quá ngưỡng Quy tắc thiết kế (DRC), có thực hiện tiếp không?
+45° Angle = Góc 45°
+90° Angle = Góc 90°
+DRC Track Length : = Độ dài đường mạch DRC:
+Current Length : = Độ dài đường mạch hiện thời:
+Additional Length : = Độ dài bổ sung:
+Target Length: = Độ dài mong muốn:
+Current Length: = Độ dài hiện thời:
+
+can not connect to the server = Không kết nối được với máy chủ
+
+#Dialog Copper Area Manager
+Copper Area Manager... = Trình quản lý vùng phủ đồng
+Copper Area Manager = Vùng phủ đồng
+Order = Thứ tự
+Name = Tên
+Layer = Lớp
+Color = Màu
+Net = Tên mạch
+Move Up = Chuyển lên
+Move Down = Chuyển xuống
+Apply = Áp dụng
+Cancel = Hủy
+Copper Area do not allow self-intersection! = Vùng phủ đồng không được tự giao nhau!
+No copper area! = Không có vùng phủ đồng!
+#Dialog report error 
+Datasheet = Thông số linh kiện
+Verification = Xác minh
+Symbol = Ký hiệu linh kiện
+Pad Number = Thứ tự phiến
+Pad Size = Kích thước phiến
+Remark = Lưu ý
+Correct = Đúng
+Incorrect = Sai
+Submit = Gửi
+Tip = Mẹo
+Please select one component = Hãy chọn một linh kiện
+Location X = Vị trí X
+Location Y = Vị trí Y
+Your current browser version may not support some features. Please use the latest version of Chrome or Firefox, or try the desktop client. = Phiên bản trình duyệt hiện tại có thể không hỗ trợ một số tính năng. Hãy sử dụng phiên bản Chrome hay Firefox mới nhất hoặc dùng phần mềm cho máy để bàn.
+EasyEDA Client = Phần mềm máy để bàn EasyEDA
+LCEDA Client = Phần mềm máy để bàn LCEDA
+Chrome = Trình duyệt Chrome 
+FireFox = Trình duyệt FireFox
+New Version = Phiên bản mới
+Switch Version = Chuyển phiên bản
+Member = Thành viên
+Update Time = Thời gian cập nhập
+Editor = Trình biên tập
+Current Version: = Phiên bản hiện thời:
+Select a version to switch = Chọn phiên bản để chuyển
+3D Model = Mô hình 3D
+Board Side = Kích thước mạch in
+Display = Hiển thị
+Copper = Đồng
+Create New Version = Tạo phiên bản mới
+Create new version success! = Tạo thành công phiên bản mới!
+Version Management = Quản lý phiên bản
+Switch success! = Chuyển thành công!
+Please close current version's documents first! = Hãy đóng phiên bản tài liệu hiện thời trước đã!
+Creator = Người khởi tạo
+Create Time = Thời gian tạo
+Fail to connect to server! Please check your internet connection status and try again! = Không kết nối được máy chủ! Hãy kiểm tra kết nối internet và thử lại!
+Spice Number = Số linh kiện mô phỏng
+Create = Tạo
+3D Outline = Phác họa 3D
+Cannot create the slot hole via the board outline, please use the following methods: = Không thể tạo được lỗ theo mạch in, hãy sử dụng các cách sau đây:
+Use the solid region and set its type as Board Cutout = Sử dụng Vùng đồng nhất và thiết lập kiểu là Vùng cắt mạch
+Select a Track/Arc, right-click to use the "Convert to Board Cutout" = Chọn đường mạch/ cung, nhẩn phải chuột để chọn "Chuyển thành vùng cắt mạch"
+Select all the closed Tracks/Arcs, right-click to use the "Convert to Board Cutout" = Chọn tất cả các đường mạch/ cung kín, nhấn phải chuột và chọn "Chuyển thành vùng cắt mạch".
+The more information please refer at = Xem thêm tại
+Save "{0}" success! = Lưu "{0}" thành công!
+Save "{0}" failed! = Lưu "{0}" thất bại!
+Invalid Size = Kích thước không đúng
+Processing = Thực hiện
+Invalid Size = Kích thước không đúng
+NetFlag GND = Nhãn mạch GND
+NetFlag VCC = Nhãn mạch VCC
+NetFlag +5v = Nhãn mạch +5V
+No Useful Data! = Không có thông tin hữu ích nào!
+SVG Preview = Xem trước tập tin SVG
+Prefix contains not supported charater(s) ! = Tiền tố có ký tự không hợp lệ!
+Name contains not supported charater(s) ! = Tên có ký tự không hợp lệ!
+Create Grid Path = Tạo đường lưới
+Please Input Name = Nhập tên
+Building Copper Area = Tạo vùng phủ đồng
+Processing = Thực hiện
+Opening File = Mở tập tin
+Update from Library = Cập nhập từ thư viện
+Update Footprint = Cập nhập mẫu linh kiện
+Find footprint(s) have been updated, do you want to update? = Tìm thấy bản cập nhập mẫu linh kiện, bạn có muốn cập nhập?
+3D File: = Tập tin 3D:
+Model List = Danh sách mô hình
+Are you sure merge net {0} and net {1}? = Bạn muốn gộp mạch {0} với mạch {1}? 
+Display Footprint = Hiển thị mẫu linh kiện
+Display Footprint Name While Placing Component = Hiển thị mẫu linh kiện trong lúc chèn linh kiện
+Annotate Prefix Automatically After Placing Component = Tự động đưa chủ thích sau khi chèn linh kiện
+Program Error, Please Contact Technical Support! = Chương trình có lỗi, hãy liên hệ hỗ trợ Kỹ thuật!
+Search Engine = Công cụ tìm kiếm
+Keyword to Filter = Từ khóa lọc
+Normal Mode = Chế độ bình thường
+Expand Mode = Chế độ mở rộng
+3D Model Manager = Trình quản lý mô hình 3D
+3D Model Preview = Xem trước mô hình 3D
+3D Model = Mô hình 3D
+3DModel = Mô hình 3D
+Document = Tài liệu
+
+[pcblayer]
+3DModel = Mô hình 3D
+Document = Tài liệu
+[/pcblayer]
+
+Adjustment = Hiệu chỉnh
+View Larger Image = Hiển thị hình ảnh lớn hơn
+Previous = Trước
+Previous Image = Hình ảnh trước
+Next Image = Hình ảnh tiếp
+Notice: For reference only, please refer to the real product = Chú ý: Chỉ để tham khảo, đề nghị xem sản phẩm thật
+It's under designing, please wait. = Hiện đang được thiết kế, xin hãy đợi.
+The width of track/arc/circle can not less than 0.1mil! = Chiều rộng đường mạch/cung tròn/ hình tròn không thẻ nhỏ hơn 0,1mil!
+Clone success ! = Nhân bản thành công!
+Footprint Naming Reference = Tham chiếu tên mẫu linh kiện
+3D Model Manager = Trình quản lý mô hình 3D
+Will jump to the Lichuang open source hardware platform (OSHWHub.com) to improve the information and share. Whether to continue? = Chuyển đến Kho phần cứng mở Lichuang (OSHWHub.com) để cập nhập thông tin và chia sẻ. Có tiếp tục không?
+Will jump to the EasyEDA open source hardware platform (OSHWLab.com) to improve the information and share. Whether to continue? =Chuyển đến Kho phần cứng mở EasyEDA (OSHWLab.com) để cập nhập thông tin và chia sẻ. Có tiếp tục không?
+The project content page will open. After adding a description and setting the project to public, you can click the share button to get the share link. = Trang thông tin dự án sẽ mở ra. Sau khi thêm mô tả và xuất bản cho cộng đồng, bạn có thể nhấn nút chia sẻ để lấy đường link.
+This project is not public, can not view homepage! = Dự án này không phải là dự án mở, không thể xem trang chủ được!
+
+[grid]
+None = Không có gì
+[/grid]
+
+#lib verify and mounted
+This component is verified = Linh kiện này đã được xác minh
+This component is unmounted = Linh kiện này đã bị tháo bỏ
+
+#find component
+Find Next = Tìm tiếp
+Object not found = Không tìm thấy linh kiện
+
+#offset Elements
+Offset X = Dịch khoảng X
+Offset Y = Dịch khoảng Y
+Offset = Dịch một khoảng
+Absolute Offset = Khoảng dịch chuyển tuyệt đối
+Relative Offset =Khoảng dịch chuyển tương đối
+Absolute Offset... = Khoảng dịch chuyển tuyệt đối
+Relative Offset... = Khoảng dịch chuyển tương đối
+Reference Point X = Điểm tham chiếu X
+Reference Point Y = Điểm tham chiếu Y
+
+# Inner Plane layer
+Rebuild Plane = Tạo lại mặt phẳng
+PlaneZone Properties = Thuộc tính mặt phẳng
+Change to a plane layer is not allowed during track routing. = Không cho phép chuyển sang lớp phẳng khi đang đi mạch.
+#pcblib rect
+Fill = Phủ
+Fill Type = Kiểu phủ
+[PlaneZone]
+Solid = Phủ kín
+[/PlaneZone]
+
+Solid Region do not allow self-intersection! = Vùng phủ kín không được giao nhau!
+
+The prefix or name or text too far away from the footprint, if you don't want it to show up please make it hidden. = Tiền tố hay tên hoặc chữ quá xa Mẫu linh kiện, nếu bạn không muốn hiển thị nó, hãy giấu nó đi.
+The prefixes are not allowed to repeat! = Tiền tố không được lặp lại!
+Save failed! The origin of the canvas is not in the graphics! Whether to set the origin automatically? = Không lưu được! Gốc nền vẽ không nằm trong đối tượng đồ họa! Đặt gốc tự động nhé?
+The origin of the canvas has been set in the graphics now, you can save again. = Gốc nền vẽ đã được đặt vào trong đối tượng đồ họa, bạn có thể lưu lại.
+Backup Project = Sao lưu Dự án
+Open Project Directory = Mở Thư mục Dự án
+
+{0} items updated = {0} mục đã cập nhập
+
+The current file {0} has an updated version. Do you want to overwrite it? If you want to open the latest version, please close the current file and reopen it. = Tập tin hiện thời {0} đã có phiên bản cập nhập. Bạn có muốn ghi đè? Nếu bạn muốn mở phiên bản mới nhất, hãy đóng tập tin hiện thời và mở lại nó.
+Yes, Overwrite It = Có, cứ ghi đè
+No, Keep It = Không, hãy giữ
+
+Download Client = Tải phần mềm cho máy để bàn
+
+Search tutorial、open source projects etc. = Tìm hướng dẫn, dự án mở vv.
+
+Go to LCSC and search for = Đến trang LCSC và tìm
+Go to LCSC = Đến trang LCSC
+
+Hide Ratline Layer and Keep the Component Prefix When Paste Objects = Ản lớp đường mạch gợi ý và giữ lại Tên Linh kiện khi dán các đối tượng
+
+ALL.layer = TẤT CẢ các lớp
+Copper.layer = Lớp phủ đồng
+Non-Copper.layer = Lớp không phủ đồng
+Other.layer = Lớp khác
+
+Please enter at least 2 characters! = Nhập ít nhaasts 2 ký tự!
+View Datasheet = Xem Thông số kỹ thuật (Datasheet)
+View Datasheet... = Xem Thông số kỹ thuật (Datasheet) ...
+
+The corresponding package or network could not be found in the currently open PCB document = Không tìm thấy kiểu đóng gói hoặc đường tương ứng trong tài liệu mạch in
+delete fail = không xóa được
+
+[crashRecovery]
+Libraries = Thư viện linh kiện
+[/crashRecovery]
+Canvas origin anomaly! = Gốc nền vẽ bất thường
+
+Component's Name = Tên linh kiện
+Component's Prefix = Tiền tố
+Component's Footprint = Mẫu linh kiện
+
+[findlib]
+Clear = Xóa
+Apply Filters = Lọc
+Result = Kết quả
+Place = Chèn
+Prev = Trước
+Next = Sau
+Total {count} Count = Tổng {count}
+About = Thông tin công cụ
+Items = Mục
+[/findlib]
+
+Object = Đối tượng
+Layers and Objects = Lớp và đối tượng
+All = Tất cả
+
+Add custom = Thêm tùy chọn
+
+Connections = Liên kết
+Attempted: = Đã thử:
+Completed: = Hoàn thành:
+Failed: = Thất bại
+Total Vias: = Tổng số lỗ Via
+
+Please confirm moving option = Xác nhận hành động di chuyển
+Only this pad = Chỉ phiến đế linh kiện này
+For this component = Với linh kiện này
+View Owner = Xem chủ sở hữu
+View Detail = Xem chi tiết
+
+
+# place batch vias
+Place Vias = Đặt lỗ Via
+Placing Vias = Đang đặt lỗ Via
+Removing Vias = Xóa bỏ lỗ Via
+Batch Vias for Copper = Tạo hàng loạt lỗ Via trên mặt đồng
+Add/Remove Vias = Thêm/Xóa Lỗ Via
+Diameter = Đường kính
+Drill Diameter = Đường kính khoan
+Column Spacing = Giãn cách cột
+Row Spacing = Giãn cách hàng
+Multiple vias have been placed, do you want to rebuild the copper area? = Nhiều lỗ Via đã được thêm, bạn muốn dựng lại vùng phủ đồng không?
+Remove vias finish, do you want to rebuild the copper area? = Hoàn thành loại bỏ lỗ Via, bạn muốn dựng lại vùng phủ đồng không?
+The width of track/arc/circle can not less than 0.051mm/2mil/0.002inch! = Độ rộng đường mạch/ cung/ đường tròn không thể nhỏ hơn 0,051mm/ 2mil/ 0,002 inch!
+Save fail! Please try again! = Không lưu được! Hãy thử lại!
+Please select a copper outline = Hãy chọn đường bao vùng phủ đồng
+Can't find copper area at other layers, please add the copper area with the same net at other layer first. = Không thể tìm được vùng phủ đồng ở Lớp mạch khác, hãy thêm Vùng phủ đồng với cùng tên gọi ở lớp mạch khác đã.
+
+Add favorite success! = Thêm mục ưa thích thành công!
+Remove favorite success! = Xóa mục ưa thích thành công!
+Remove favorite failed! = Không xóa được mục ưa thích!
+Whether if remove favorite? = Bạn muốn xõa mục ưa thích?
+Split by ';' for multi tags = Với nhiều đuôi khác nhau, hãy phân tách chúng bằng dấu ";" 
+
+This size is the determined size! = Kích thước này dã được thiết lập!
+The associated pad has been locked = Phiến đế linh kiện liên quan đã bị khóa
+Split by space or , for multi tags = Với nhiều đuôi khác nhau, hãy phân tách chúng bằng dấu ";" hoặc dấu Cách
+
+Rotation X = Xoay theo trục X
+Rotation Y = Xoay theo trục Y
+Rotation Z =Xoay theo trục Z
+
+Some fields are filled invalid data = Một số trường có dữ liệu không hợp lệ
+start time should be earlier than stop time = thời gian bắt đầu phải sớm hơn thời gian kết thúc
+Number of points should be less than 100 in octave variation = Số điểm phải nhỏ hơn 100 xét theo cách quãng 8
+Start frequency should be less than stop frequency. The suffix meg stands for Mega,m stands for milli = Tần số ban đầu phải nhỏ hơn tần số kết thúc. Hậu tố meg tướng ứng với Mega (triệu lần), m ứng với milli
+Get historical records fail! = Truy cập số liệu lịch sử bị thất bại!
+This 3D model didn't create the outlines successfully, please import it again or contact with us. = Mô hình 3D này không tạo được hình bao. Hãy nhập lại hoặc liên hệ với chúng tôi.
+There is No Tag! = Không có Đuôi nào cả!
+Assign successful! = Gán thành công!
+Found footprint's pad number doesn't match the schematic component's pin number, please correct the pad number and try again! = Tìm thấy số hiệu đế linh kiện không khớp với số chân trong bản vẽ. Hãy sửa số hiệu phiến đế của mẫu linh kiện và thử lại!
+Update Attribute = Cập nhập thuộc tính
+Please fill in at least 5 words. = Hãy điền tối thiểu 5 từ.
+Mouse hovering over the track to highlight the entire network = Di chuột trên đường mạch để hiện toàn mạch
+Net Highlighting While Cursor Hover the Track = Hiện mạch khi di chuyển trỏ chuột trên đường mạch
+When circle set as "Yes", the Pin length must more than 6 = Khi bao tròn được thiết lập là "Có", chiều dài chân linh kiện phải lớn hơn 6
+Hi, I found a problem of your library, this library seems incorrect.\ntitle:{title}\nType:{type}\nlink:{link}\n{content}\nThank you! = Xin chào, Hi, tôi phát hiện ra vấn đề trong thư viện của bạn, thư viện này có vẻ không chuẩn.\nTên:{title}\nLoại:{type}\nliên kết:{link}\n{content}\nXin cảm ơn!
+
+Logout fail! Please try again! = Đăng xuất thất bại, hãy thử lại!
+Logout success! We look forward you to use LCEDA again! = Đăng xuất thành công! Chúng tôi mong bạn sớm quay lại sử dụng LCEDA!
+Logout success! We look forward you to use EasyEDA again! = Đăng xuất thành công! Chúng tôi mong bạn sớm quay lại sử dụng EasyEDA!
+Click to Preview 3D = Nhấn để xem cảnh 3D
+[logoutDialog]
+Logout = Đăng xuất
+[/logoutDialog]
+
+[findlibTag]
+All = Tất cả
+[/findlibTag]
+
+Export Pick and Place File = Xuất tập tin Tọa độ
+Mirror the bottom component's X coordinate (JLCPCB doesn't need) = Ánh xạ tọa độ ngang của linh kiện bên dưới (JLCPCB không cần làm điều này)
+Work Space = Khu vực làm việc
+Include panelized components' coordinates = Thêm tọa độ dàn mạch hàng loạt cho linh kiện
+Personal Workspace = Khu vực làm việc Cá nhân
+Work Space - {name} = Khu vực làm việc - {name}
+Work Space - Personal = Khu vực làm việc - Cá nhân
+Cloning = Đang nhân bản
+
+Project Owner = Chủ sở hữu dự án
+Clone Project = Nhân bản dự án
+Homepage = Trang chủ
+Apply for Education Edition = Áp dụng cho phiên bản dùng trong Giáo dục
+Load Organization failed = Tải thông tin tổ chức không được
+Joined = Đã tham gia
+Favorite = Yêu thích
+This operation will unfavorite this project, do you want to continue? = Hành động tương đương việc bỏ ưa thích với dự án này, bạn muốn tiếp tục không?
+View Homepage = Xem trang chủ
+Private Project = Dự án cá nhân
+3-7 days = 3-7 ngày
+Close Tab = Đóng trang làm việc
+Close Other Tabs = Đóng các trang làm việc khác
+Close All Tabs = Đóng tất cả các trang làm việc
+Open in New Window = Mở trong cửa sổ mới
+Cursor Snap to Component's Origin or Pad Center While Dragging Component = Con trỏ dính vào gốc linh kiện hoặc trọng tâm phiến đế trong khi kéo linh kiện
+Undefined = Không xác định
+Input = Đầu vào
+Model Unit = Đơn vị Mô hình
+File Unit = Đơn vị tập tin
+This part contains subparts, please make sure you have checked other subparts before reporting error, do you want to continue? = Linh kiện này có linh kiện con, hãy đảm bảo là bạn đã kiểm tra các linh kiện con trước khi báo cáo lỗi. Bạn có muốn tiếp tục không?
+
+[saveAs]
+Power = Nguồn
+[/saveAs]
+
+Assign LCSC Part# = Gán linh kiện LCSC
+Unexpected error while converting. Perhaps unsupported file type or program bug. = CÓ lỗi không mong đợi khi chuyển đổi. Có thể đó là lỗi chương trình hoặc do định dạng tập tin không được hỗ trợ
+Found duplicated component IDs, please click "OK" to re-assign component ID automatically, and then save the document and try again. = Tìm tấy mã linh kiện trùng, hãy nhấn "OK" để gán lại mã linh kiện tự động, sau đó lưu tài liệu và thử lại.
+
+#electromagneticSimulation
+Electromagnetic Simulation... = Mô phỏng Điện từ...
+You will upload Gerber to SuperEM for electromagnetic simulation (only upload Gerber, not including account data), do you want to continue? = Bạn sẽ cần tải tập tin Gerber lên SuperEM để thực hiện mô phỏng điện từ (chỉ tải tập tin Gerber, không kèm theo thông tin tài khoản), bạn muốn tiếp tục không?
+SuperEM is a 3-D full-wave electromagnetic simulation and design platform for high-speed PCB circuits and antennas, which is developed by Faraday Dynamics, Ltd. = SuperEM là một phần mềm thiết kế và mô phỏng sóng điện từ 3D dùng cho mạch in tốc độ cao và ăng ten do Công ty Faraday Dynamics, Ltd. phát triển.
+Visit the SuperEM = Đến thăm SuperEM
+SuperEM User Guide = Hướng dẫn người dùng SuperEM
+Upload Gerber to SuperEM successfully, please click "OK" buttun to continue = Tải tập tin Gerber lên SuperEM thành công, nhấn nút "OK" để tiếp tục.
+
+Format = Định dạng
+View = Hiển thị
+Design = Thiết kế
+Simulation = Mô phỏng
+Advanced = Nâng cao
+Fabrication = Sản xuất
+Check DRC = Kiểm tra DRC
+Simulation Setting = Thiết lập Mô phỏng
+BOM = Danh sách linh kiện BOM
+PCB Fabrication File(Gerber) = Tập tin Chế tạo mạch in (Gerber)
+Pick and Place File = Tập tin định vị linh kiện
+Parts Order = Đặt hàng linh kiện
+PCB Order = Đặt hàng mạch in PCB
+SIM = SIM
+STD = STD
+WaveForm = Dạng sóng
+
+Place Module = Chèn Mô đun
+Please enter identification letters: = Hãy nhập ký tự nhận dạng:
+Only support English letters, up to 5. = Chỉ hỗ trợ ký tự tiếng Anh, dài nhất là 5 ký tự.
+
+Exist doesn't annotate prefix component(s) in the module, please edit and annotate the unique prefix(s) for component(s) first. = Đã có chú thích của tiền tố này trong Mô đun, hãy sửa và tạo lại chú thích không trùng khác
+Opening = Đang mở
+
+Also update track's net (Only applies to circumstance under which prefix/netlabel changes and no component/wire is added or removed) = Đồng thời cập nhập tên đường mạch (Chỉ được thực hiện khi có thay đổi tên mạch/ tiền tố đường mạch và không có linh kiện hoặc đường mạch nào được thêm vào hay xóa đi)
+
+# desktop client error feedback
+Cannot open online documents on Project Offline mode. = Không thể mở tài liệu trực tuyến trong chế độ Dự án không nối mạng.
+
+Please select a project = Hãy chọn một dự án
+Opened Projects = Các Dự án đã mở
+Open Project = Mở dự án
+Close Project = Đóng dự án
+Open All Projects = Mở tất cả các dự án
+Close All Projects = Đóng tất cả các dự án
+Select Owner = Chọn Chủ dự án
+Select Folder = Chọn thư mục
+Select Owner or Folder = Chọn Chủ dự án hay thư mục
+Select Project = Chọn Dự án
+Folder = Thư mục
+New Folder = Tạo thư mục mới
+New Sub Folder = Tạo thư mục con mới
+Delete Folder = Xóa thư mục
+Move Project = Di chuyển Dự án
+Move Folder = Di chuyển thư mục
+# Rename Folder =
+Please input the folder name = Hãy nhập tên thư mục
+Invalid folder name = Tên thư mục không hợp lệ
+Are you sure to delete this folder? = Bạn muốn xóa thư mục này?
+Create new folder successfully = Tạo thư mục thành công
+Failed to create new folder = Không tạo được thư mục
+Delete folder successfully = Xóa thư mục thành công
+Failed to delete folder = Không xóa được thư mục
+Rename folder successfully = Đổi tên thư mục thành công
+Failed to rename folder = Không đổi tên được thư mục
+Move folder successfully = Di chuyển thư mục thành công
+Failed to move folder = Không di chuyển được thư mục
+Move project successfully = Di chuyển dự án thành công
+Failed to move project = Không di chuyển được dự án
+The folder depth must not exceed {0} levels = Độ sâu cây thư mục không được vượt quá {0} cấp
+Failed to add project to folder = Không thêm được dự án vào thư mục
+
+Doesn't support JLCPCB SMT Service = Không hỗ trợ dịch vụ JLCPCB SMT (Dịch vụ hàn và lắp ráp linh kiện của JLCPCB)
+for JLCPCB SMT Service = với Dịch vụ JLCPCB SMT (Dịch vụ hàn và lắp ráp linh kiện của JLCPCB)
+
+Reset failed! There are duplicate component prefixes in the current schematic: = Không cài đặt lại được! Có linh kiện trùng tiền tố trong bản vẽ hiện tại:
+Reset failed! There are duplicate component prefixes in the current PCB: = Không cài đặt lại được! Có linh kiện trùng tiền tố trong mạch in hiện tại:
+Please modify the component prefixes first to ensure that the component prefix is unique. = Hãy sửa tiền tố linh kiện và bảo đảm linh kiện có tiền tố không bị trùng.
+
+LCEDA(Standard) - A Simple and Powerful Electronic Circuit Design Tool = LCEDA (Chuẩn) - Công cụ đơn giản nhưng rất mạnh mẽ dùng trong thiết kế mạch điện
+EasyEDA(Standard) - A Simple and Powerful Electronic Circuit Design Tool = Công cụ đơn giản nhưng rất mạnh mẽ dùng trong thiết kế mạch điện 
+
+#Dialog for Package Custom Data
+Please input the data title = Hãy nhập tên Dữ liệu
+Data title duplicated = Tên dữ liệu bị trùng
+Cannot be more than {0} characters! = Không được dài hơn {0} ký tự!
+Only latin alphabets, digits, underscore(_) and hyphen(-) are allowed. = Chỉ được nhập ký tự la tinh, số, dấu gạch dưới (_), gạch giữa (-).
+Invalid value of item {0} = Giá trị mục {0} không hợp lệ
+Update DFM = Cập nhập DFM
+Custom DFM Data = Dữ liệu DFM tùy biến
+Saved custom data successfully! = Lưu dữ liệu tùy biến thành công!
+Save custom data failed! = Lưu dữ liệu tùy biến không thành công!
+Will replace the graphics and custom data of current document, after imported please adjust the 3D model. Continue or not? = Chúng tôi thay thế phần đồ họa và dữ liệu tùy biến của tài liệu hiện thời. Sau khi nhập, hãy chỉnh sửa mô hình 3D, Bạn có tiếp tục không?
+Open footprint "Custom Data" dialog = Mỏ hộp thoại "Dữ liệu tùy biến" của mẫu linh kiện 
+
+# Create lead shape
+Create Lead Shape = Tạo hình mấu nối
+Base on Pad Center = Theo trọng tâm phiến đế linh kiện
+Base on Canvas Origin = Theo gốc nền vẽ
+Lead shape = Hình Tiếp điểm
+Footprint Type = Loại mẫu linh kiện
+From pad shape = Nối từ phiến đế linh kiện
+Lead length = Độ dài tiếp điểm
+Lead width = Độ rộng tiếp điểm
+Lead diameter = Đường kính tiếp điểm
+Scaling ratio = Tỷ lệ phóng
+Leads creating direction = Hướng tạo tiếp điểm
+Auto = Tự động
+Horizontal = Ngang
+Vertical = Dọc
+Canvas origin to lead edge = Gốc nền vẽ đến cạnh tiếp điểm
+Canvas origin to body edge = Gốc nền vẽ đến thân tiếp điểm
+Lead soldering length = Chiều dài khoảng hàn tiếp điểm
+Lead soldering part diameter = Đường kính hàn tiếp điểm linh kiện
+Component shape object doesn't overlap lead shape object, please check carefully. = Hình dạng linh kiện không được chồng lên hình tiếp điểm, hãy kiểm tra cẩn thận.
+The solder mask expansion of pads ({0},{1}) has a small clearance(less then 0.08mm), it will cause the soldering too short, please modify. = Phần mở rộng dấu hàn của phiến đế linh kiện ({0},{1}) có khoảng hở quá nhỏ (ít hơn 0,08mm), điều này sẽ làm cho khoảng cách mối hàn quá hẹp, hãy sửa lại.
+The paste mask expansion or custom paste mask layer objects of pads ({0},{1}) has a small clearance(less then 0.15mm), it will cause the stencil to create fail, please modify. = Phần mở rộng hình vẽ linh kiện hoặc lớp hình linh kiện tùy biến của phiến đế ({0},{1}) có khoảng hở quá nhỏ (ít hơn 0,15mm), sẽ không thể tạo được khuôn định vị linh kiện (Stencil), hãy sửa lại.
+System footprint must exist pad number 1 or A1, please modify the pad number. = Linh kiện mẫu hệ thống phải có số hiệu đế linh kiện là 1 hoặc A1, hãy sửa lại số hiệu phiến đế linh kiện.
+System footprint doesn't allow two or more pad numbers are 1 or A1, please modify the pad number. = Linh kiện mẫu hệ thống không thể có 2 hoặc nhiều hơn số hiệu đế linh kiện 1 hay A1, hãy sửa lại số hiệu phiến đế linh kiện.
+Document layer has circle object, but jlcPara's polarity is 0, please check the Custom Data. = Lớp tài liệu có hình tròn, nhưng phân cực jlcPara lại là 0, hãy kiểm tra lại Dữ liệu tùy biến.
+There are exist repeat pad numbers: {padNumber}, please check, if it is correct please ignore this. = Hiện đang đã có số hiệu phiến đế linh kiện: {padNumber}, hãy kiểm tra lại, nếu điều đó đúng, xin bỏ qua thông điệp này.
+Can't find the circle at the component marking layer, or this circle doesn't at the same quadrant with the 1st pad, please check whether it is correct. = Không tìm thấy đường tròn tại lớp đánh dấu linh kiện, hoặc đường tròn này không ở góc phần tư tương ứng của phiến đế đầu tiên, hãy kiểm tra lại.
+
+ROUND = TRÒN
+RECTANGLE = CHỮ NHẬT
+OCTAGONAL = MƯỜI CẠNH ĐỀU
+Upper left = Phía trái bên trên
+Lower left = Phía trái bên dưới
+Center of Pads = Trọng tâm phiến đế
+First Pin = Chân đầu tiên
+Package Name = Tên kiểu đóng gói
+Pins Number = Thứ tự chân
+Rows Of Pin = Số hàng chân
+Columns Of Pin = Số cột chân 
+Polarity = Phân cực
+Pad Shape = Hình dạng phiến đế linh kiện
+Body Diameter = Đường kính thân
+Lead Span = Độ mở tiếp điểm
+Lead Vertical Span = độ mở dọc tiếp điểm
+Body Length = Độ dài thân
+Body Height = Chiều cao thân
+Pin Diameter = Đường kính chân
+Pin Length = Độ dài chân
+Pin Height = Chiều cao chân
+Pin Solid Width = Độ rộng đặc của Chân linh kiện
+Pin Solid Height = Chiều cao đặc của Chân linh kiện
+Pin Spacing = Cách quãng chân linh kiện
+Pin Horizontal Spacing = Cách quãng chân theo chiều ngang
+Pin Vertical Spacing = Cách quãng chân theo chiều dọc
+ThermalPad = Đế tản nhiệt
+Pad Expansion = Đế mở rộng
+Custom PasteMask = Điểm dán linh kiện tùy chọn
+Fabrication Tolerance = Dung sai trong Chế tạo
+Plcarment Tolerance = Dung sai định vị linh kiện
+FirstPin Position = Vị trí chân đầu tiên
+Package Origin = Kiểu đóng gói
+Expansion Size = Kích cỡ mở rộng
+Corner = Góc
+Angle = Góc chia độ
+Fillet = Đường gân	
+Chamfer = Vạt cạnh
+Update Preview = Cập nhập bản xem trước
+Number of pins (left and right) = Số chân (trái và phải)
+Number of pins (up and down) = Số chân (trên và dưới)
+Reference Use Cases = Các trường hợp tham khảo
+Package Type = Kiểu đóng gói
+Capacitance = Dung kháng
+Resistance = Trở kháng
+Bidirectional Diode = Đi ốt song hướng
+Inductance = Cảm kháng
+Crystal Oscillator = Bộ dao động
+Diode = Diode
+LED = Đèn LED
+Fuse = Cầu chì
+Entity height = Chiều cao
+Lead Overhang = Tiếp điểm treo
+Lead Thickness = Độ dầy tiếp điểm
+Unknown mistake = Lỗi không xác định
+Has ThermalVias = Có lỗ truyền nhiệt
+Polar Capacitance = Dung kháng phân cực
+
+Create Component Marking = Tạo hình đánh dấu linh kiện
+Create component marking successfully! = Tạo hình đánh dấu linh kiện thành công
+No elements on component shape layer! = Không có thành phần nào trên lớp hình vẽ linh kiện!
+No elements on lead shape layer! = Không có thành phần nào trên lớp tiếp điểm!
+No pad of number 1 or A1, please modify the pad number. = Không có phiến chân số 1 hoặc A1, hãy sửa lại số hiệu phiến chân linh kiện
+Save failed! Component marking circle is at the axis. Do you want to recreate the component marking? = Không lưu lại được! Vòng tròn đánh dấu linh kiện đang đặt trên trục. Bạn có muốn tạo lại vòng đánh dấu linh kiện khong?
+If autoroute fail, you can export the autoroute file(DSN) to third-party autorouter tool(Such as: Konekt Electra, Eremex TopoR etc.), and export the session file(SES) after finished autoroute, and then import to PCB. = Nếu việc đi mạch tự động thất bại, bạn có thể xuất tập tin đi mạch tự động (DSN) sang một công cụ đi mạch tự động khác (Chẳng hạn: Konekt Electra, Eremex TopoR etc.), và xuất tập tin phiên làm việc (SES) sau khi hoàn thành việc đi mạch tự động và nhập lại vào bo mạch PCB.
+Auto route failed! Found abnormal pad(s) data, please modify the pad width and height: = Tự động đi mạch không thành công! Phát hiện thấy dữ liệu các phiến đế linh kiện bất thường, hãy chỉnh độ rộng và chiều cao phiến đế:
+Select Properties = Chọn Thuộc tính
+Combine the same parts' prefixes in one row = Gộp các linh kiện có tiền tố giống nhau
+Please check at least one item! = Hãy kiểm tra ít nhất một mục!
+Pins = Chân
